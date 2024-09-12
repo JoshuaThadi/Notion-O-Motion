@@ -1,6 +1,6 @@
 <!-- MasterHead -->
 <a href="https://JoshuaThadi.io">
-    <img src="proview-img.png" alt="MasterHead">
+    <img src="https://github.com/JoshuaThadi/Notion-O-Motion/blob/main/Screenshot%202024-09-12%20212719.png" alt="MasterHead">
 </a>
 
 <div align="left">
