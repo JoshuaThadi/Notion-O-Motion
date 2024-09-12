@@ -1,7 +1,5 @@
 <!-- MasterHead -->
-<a href="https://JoshuaThadi.io">
-    <img src="https://github.com/JoshuaThadi/Notion-O-Motion/blob/main/Screenshot%202024-09-12%20212719.png" alt="MasterHead">
-</a>
+
 
 <div align="left">
 <h1 align="center">This is Notion Portfolio website</h1>
