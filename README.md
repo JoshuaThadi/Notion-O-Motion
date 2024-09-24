@@ -20,6 +20,3 @@
 
 </div>
 
-<div align="center">
-    <img align="left" alt="image" width="auto" src="https://github.com/JoshuaThadi/Notion-O-Motion/blob/main/Screenshot%202024-09-12%20214332.png">
-</div>
