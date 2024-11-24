@@ -1,5 +1,8 @@
 <!-- MasterHead -->
-
+<div align="center">
+<a width=400 href="https://www.notion.so/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="40">
+</a>
 
 <div align="left">
 <h1 align="center">This is Notion Portfolio website</h1>
@@ -20,3 +23,4 @@
 
 </div>
 
+</div>
