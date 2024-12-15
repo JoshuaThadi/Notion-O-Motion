@@ -5,7 +5,7 @@
 </a>
 
 <div align="left">
-<h1 align="center">This is Notion Portfolio website</h1>
+<h1 align="center">This is Notion Templates and Website</h1>
 
 <h3 align="center">💡 Just a plain website where you can use the notion templates to build your own websites for templates to organize your day-to-day life.</h2>
 <br/>
