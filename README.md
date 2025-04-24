@@ -19,6 +19,12 @@
 <a href="https://soft-saturn-e55.notion.site/Let-s-Do-Today-2f75182f90ee4e8b8cfcb5f5bda9e645" target="_blank">
   <img width="120px" src="https://img.shields.io/badge/NOTION-ffffff?style=for-the-badge&logo=Notion&logoColor=black" alt="NOTION">
 </a>
+
+
+---
+
+⚠️ This repository is uniquely designed by <strong>@JoshuaThadi</strong>
+
 </div>
 
 
