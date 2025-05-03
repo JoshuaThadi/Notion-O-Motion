@@ -13,7 +13,7 @@
 <div align="left">
 <h1 align="center">Digital Products</h1>
 <p align="center">
-💡 Just a plain website where you can use the Notion templates to build your own websites and organize your day-to-day life effectively. 🎨 On <strong>Behance</strong>, I showcase high-impact digital projects including UI/UX designs, branding concepts, web visuals, and product mockups. 🖌️ On <strong>Dribbble</strong>, I share minimal yet meaningful visual experiences — from clean interface designs to micro-interactions and product concepts. 💼 Through <strong>Fiverr</strong>, I offer freelance gigs for clients worldwide — ranging from custom automation scripts and website design to Notion setups and branding solutions.
+💡 Just a plain website where you can use the Notion templates to build your own websites and organize your day-to-day life effectively. 🎨 On <strong>Behance</strong>, high-impact digital projects including UI/UX designs, branding concepts, web visuals, and product mockups. 🖌️ On <strong>Dribbble</strong>, minimal yet meaningful visual experiences — from clean interface designs to micro-interactions and product concepts. 💼 Through <strong>Fiverr</strong>, freelance gigs for clients worldwide — ranging from custom automation scripts and website design to Notion setups and branding solutions.
 </p>
 
 
