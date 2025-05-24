@@ -1,18 +1,18 @@
 <!-- MasterHead -->
 <div align="center">
 <a href="https://www.notion.so/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="80"></a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="100"></a>
 <a href="https://www.behance.net/" target="_blank">
-  <img src="https://cdn-icons-png.freepik.com/256/2496/2496088.png?semt=ais_hybrid" alt="Behance Icon" width="80" style="vertical-align: middle; margin: 0 5px;"></a>
+  <img src="https://cdn-icons-png.freepik.com/256/2496/2496088.png?semt=ais_hybrid" alt="Behance Icon" width="100" style="vertical-align: middle; margin: 0 5px;"></a>
 <a href="https://dribbble.com/" target="_blank">
-  <img src="https://www.svgrepo.com/show/299474/dribbble.svg" alt="Dribbble Icon" width="80" style="vertical-align: middle; margin: 0 5px;"></a><br>
+  <img src="https://www.svgrepo.com/show/299474/dribbble.svg" alt="Dribbble Icon" width="100" style="vertical-align: middle; margin: 0 5px;"></a><br>
   
 <a href="https://in.pinterest.com/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/145/145808.png" alt="Dribbble Icon" width="80" style="vertical-align: middle; margin: 0 5px;"></a>
+  <img src="https://cdn-icons-png.flaticon.com/512/145/145808.png" alt="Dribbble Icon" width="100" style="vertical-align: middle; margin: 0 5px;"></a>
 <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.upwork.com/&ved=2ahUKEwiri_jDyryNAxU9RmwGHW3mLToQFnoECAkQAQ&usg=AOvVaw3j8KT1BYya4yXbNUwtswU5" target="_blank">
-  <img src="https://static-00.iconduck.com/assets.00/upwork-icon-2048x2048-rrxq98us.png" alt="Dribbble Icon" width="80" style="vertical-align: middle; margin: 0 5px;"></a>
+  <img src="https://static-00.iconduck.com/assets.00/upwork-icon-2048x2048-rrxq98us.png" alt="Dribbble Icon" width="100" style="vertical-align: middle; margin: 0 5px;"></a>
 <a href="https://www.fiverr.com/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="Fiverr Icon" width="80" style="vertical-align: middle; margin: 0 5px;">
+  <img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="Fiverr Icon" width="100" style="vertical-align: middle; margin: 0 5px;">
 </a>
 
 <div align="left">
