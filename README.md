@@ -137,18 +137,6 @@ In today’s fast-paced digital world, having ready-to-use, versatile templates 
 <a href="https://creativemarket.com" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Creative_Market-grey?style=for-the-badge&logo=creativemarket&logoColor=white" alt="Creative Market Badge" /></a>
 
-<!-- Adobe Illustrator / Photoshop / InDesign -->
-<a href="https://www.adobe.com" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator%2F%20InDesign-grey?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Suite Badge" /></a>
-
-<!-- Creative Market -->
-<a href="https://creativemarket.com" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Creative_Market-grey?style=for-the-badge&logo=creativemarket&logoColor=white" alt="Creative Market Badge" /></a>
-
-<!-- Envato Elements -->
-<a href="https://elements.envato.com" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Envato_Elements-grey?style=for-the-badge&logo=envato&logoColor=white" alt="Envato Elements Badge" /></a>
-
 <!-- Visme -->
 <a href="https://www.visme.co" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Visme-grey?style=for-the-badge&logo=visme&logoColor=white" alt="Visme Badge" /></a>
@@ -160,6 +148,14 @@ In today’s fast-paced digital world, having ready-to-use, versatile templates 
 <!-- Canva Pro Badge -->
 <a href="https://www.canva.com/pro/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Canva_Pro-%237B797D.svg?style=for-the-badge&logo=canva&logoColor=%23FFD700" alt="Canva Pro Badge"></a>
+
+<!-- Adobe Illustrator / Photoshop / InDesign -->
+<a href="https://www.adobe.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator%2F%20InDesign-grey?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Suite Badge" /></a>
+
+<!-- Envato Elements -->
+<a href="https://elements.envato.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Envato_Elements-grey?style=for-the-badge&logo=envato&logoColor=white" alt="Envato Elements Badge" /></a>
 
 <!-- Crello (VistaCreate) -->
 <a href="https://vistacreate.com" target="_blank" style="text-decoration: none;">
