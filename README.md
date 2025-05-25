@@ -29,14 +29,38 @@
 
 
 <div align="left">
-<h1 align="center">Digital Products</h1>
-<p align="center">
-💡 Just a plain website where you can use the Notion templates to build your own websites and organize your day-to-day life effectively. 🎨 On <strong>Behance</strong>, high-impact digital projects including UI/UX designs, branding concepts, web visuals, and product mockups. 🖌️ On <strong>Dribbble</strong>, minimal yet meaningful visual experiences — from clean interface designs to micro-interactions and product concepts. 💼 Through <strong>Fiverr</strong>, freelance gigs for clients worldwide — ranging from custom automation scripts and website design to Notion setups and branding solutions.
-</p>
+<h1 align="center">✯ Digital Products</h1>
 
 
 
-<div align="center">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--<div align="center">
     <h3>🌐 My Notion Website and template Link:</h3>
 
 <a href="https://masterjudah-notion-website.super.site/" target="_blank">
@@ -50,7 +74,7 @@
   <p>
     
   </p>
-</div>
+</div>-->
 
 ---
 
