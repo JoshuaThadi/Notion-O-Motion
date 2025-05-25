@@ -133,8 +133,9 @@ In today’s fast-paced digital world, having ready-to-use, versatile templates 
 <a href="https://www.figma.com" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Figma%20%2F%20FigJam-grey?style=for-the-badge&logo=figma&logoColor=white" alt="Figma / FigJam Badge" /></a>
 
-
-
+<!-- Creative Market -->
+<a href="https://creativemarket.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Creative_Market-grey?style=for-the-badge&logo=creativemarket&logoColor=white" alt="Creative Market Badge" /></a>
 
 <!-- Adobe Illustrator / Photoshop / InDesign -->
 <a href="https://www.adobe.com" target="_blank" style="text-decoration: none;">
