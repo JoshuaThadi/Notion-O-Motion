@@ -77,7 +77,7 @@ In today’s fast-paced digital world, having ready-to-use, versatile templates 
 
 
 
-<br>
+<br><br>
 
 <b>Productivity Templates:</b> Designed to optimize workflow and time management, productivity templates include planners, to-do lists, project trackers, meeting agendas, and calendars. They help individuals and teams stay organized, set priorities, and meet deadlines effectively, enhancing overall efficiency and focus.<br>
 
@@ -124,7 +124,7 @@ In today’s fast-paced digital world, having ready-to-use, versatile templates 
 
 
 
-<br>
+<br><br>
 
 <b>Designing Templates:</b> These serve as creative blueprints for graphic designers, marketers, and content creators. They offer layouts for websites, posters, brochures, infographics, and digital content, combining aesthetics with functionality. By leveraging designing templates, users can save time while ensuring high-quality, visually appealing results.<br>
 
@@ -133,16 +133,16 @@ In today’s fast-paced digital world, having ready-to-use, versatile templates 
 <a href="https://www.figma.com" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Figma%20%2F%20FigJam-grey?style=for-the-badge&logo=figma&logoColor=white" alt="Figma / FigJam Badge" /></a>
 
-<!-- Creative Market Badge -->
-<a href="https://creativemarket.com" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Creative_Market-%237B797D.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Creative Market Badge"></a>
+
 
 
 <!-- Adobe Illustrator / Photoshop / InDesign -->
 <a href="https://www.adobe.com" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Adobe%20Illustrator%2F%20InDesign-grey?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Suite Badge" /></a>
 
-
+<!-- Creative Market -->
+<a href="https://creativemarket.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Creative_Market-grey?style=for-the-badge&logo=creativemarket&logoColor=white" alt="Creative Market Badge" /></a>
 
 <!-- Envato Elements -->
 <a href="https://elements.envato.com" target="_blank" style="text-decoration: none;">
@@ -168,9 +168,6 @@ In today’s fast-paced digital world, having ready-to-use, versatile templates 
 <a href="https://designer.microsoft.com" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Microsoft_Designer-grey?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Designer Badge" /></a>
 
-<!-- Creative Market -->
-<a href="https://creativemarket.com" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Creative_Market-grey?style=for-the-badge&logo=creativemarket&logoColor=white" alt="Creative Market Badge" /></a>
 
 
 
