@@ -77,7 +77,7 @@ In today’s fast-paced digital world, having ready-to-use, versatile templates 
 
 
 
-<br><br>
+<div><p><h1></h1></p></div>
 
 <b>Productivity Templates:</b> Designed to optimize workflow and time management, productivity templates include planners, to-do lists, project trackers, meeting agendas, and calendars. They help individuals and teams stay organized, set priorities, and meet deadlines effectively, enhancing overall efficiency and focus.<br>
 
@@ -124,7 +124,7 @@ In today’s fast-paced digital world, having ready-to-use, versatile templates 
 
 
 
-<br><br>
+<div><p><h1></h1></p></div>
 
 <b>Designing Templates:</b> These serve as creative blueprints for graphic designers, marketers, and content creators. They offer layouts for websites, posters, brochures, infographics, and digital content, combining aesthetics with functionality. By leveraging designing templates, users can save time while ensuring high-quality, visually appealing results.<br>
 
@@ -165,6 +165,9 @@ In today’s fast-paced digital world, having ready-to-use, versatile templates 
 <a href="https://designer.microsoft.com" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Microsoft_Designer-grey?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Designer Badge" /></a>
 
+<div><p><h1></h1></p></div>
+
+<img width="100%" src="https://tint.creativemarket.com/xTH2Fwq6BmqUgW5ck0tUIqebySPZ00-FB3F81Rgw7EI/width:1200/height:800/gravity:nowe/rt:fill-down/el:1/czM6Ly9maWxlcy5jcmVhdGl2ZW1hcmtldC5jb20vaW1hZ2VzL3NjcmVlbnNob3RzL3Byb2R1Y3RzLzE5NTgvMTk1ODAvMTk1ODA1NjEvMTYtby5qcGc?1697638643">
 
 
 
