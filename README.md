@@ -208,7 +208,7 @@ In today’s fast-paced digital world, having ready-to-use, versatile templates 
 
 Web designing is the art and science of creating visually appealing, user-friendly, and functional websites that effectively communicate a brand’s message and engage visitors. It involves combining aesthetics, usability, and technology to build seamless digital experiences across devices.<br>
 
-<b>UI/UX Design Tools</b> Craft high-fidelity interfaces, interactive prototypes, and team-ready mockups for web and app design.<br>
+<b>UI/UX Design Tools:</b> Craft high-fidelity interfaces, interactive prototypes, and team-ready mockups for web and app design.<br>
 <b>Figma</b> – Collaborative UI/UX design and prototyping tool.<br>
 <b>Adobe XD</b> – Powerful vector-based tool for UI/UX and prototyping.<br>
 <b>Sketch</b> – Popular macOS app for interface design and prototyping.<br>
@@ -243,7 +243,7 @@ Web designing is the art and science of creating visually appealing, user-friend
 
 <div><p><h1></h1></p></div>
 
-<b>Wireframing & Planning Tools</b> For planning structure and layout before high-fidelity design, Quickly sketch and structure your app or website’s user flow before jumping into detailed design.<br>
+<b>Wireframing & Planning Tools:</b> For planning structure and layout before high-fidelity design, Quickly sketch and structure your app or website’s user flow before jumping into detailed design.<br>
 
 <b>Balsamiq</b> – Rapid wireframing tool for low-fidelity mockups.<br>
 <b>Lucidchart</b> – Powerful diagramming and flowchart software.<br>
@@ -270,7 +270,7 @@ Web designing is the art and science of creating visually appealing, user-friend
 
 <div><p><h1></h1></p></div>
 
-<b>Website Builders (No-code/Low-code)</b> Ideal for designers who want to build responsive websites visually, Visually create responsive websites without writing code, perfect for designers and marketers.<br>
+<b>Website Builders (No-code/Low-code):</b> Ideal for designers who want to build responsive websites visually, Visually create responsive websites without writing code, perfect for designers and marketers.<br>
 
 <b>Webflow</b> – Visual web design and development platform for professional sites.<br>
 <b>Wix Studio</b> – Advanced website builder with design flexibility and collaboration.<br>
@@ -281,6 +281,10 @@ Web designing is the art and science of creating visually appealing, user-friend
 <b>Weebly</b> – Simple website builder with eCommerce features.<br>
 <b>Dorik</b> – Minimalist website builder focused on simplicity and speed.<br>
 <b>Carrd</b> – Lightweight one-page site builder perfect for landing pages.<br>
+
+<!-- Squarespace / Wix / Weebly -->
+<a href="https://www.squarespace.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Squarespace_/_Wix_/_Weebly-grey?style=for-the-badge&logo=squarespace&logoColor=white" alt="Website Builders Badge" /></a>
 
 <!-- Webflow -->
 <a href="https://webflow.com" target="_blank" style="text-decoration: none;">
@@ -298,10 +302,6 @@ Web designing is the art and science of creating visually appealing, user-friend
 <a href="https://framer.com" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Framer-grey?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Badge" /></a>
 
-<!-- Squarespace / Wix / Weebly -->
-<a href="https://www.squarespace.com" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Squarespace_/_Wix_/_Weebly-grey?style=for-the-badge&logo=squarespace&logoColor=white" alt="Website Builders Badge" /></a>
-
 <!-- Dorik / Carrd -->
 <a href="https://dorik.com" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Dorik_/_Carrd-grey?style=for-the-badge&logo=circle&logoColor=white" alt="Dorik / Carrd Badge" /></a>
@@ -310,7 +310,7 @@ Web designing is the art and science of creating visually appealing, user-friend
 
 <div><p><h1></h1></p></div>
 
-<b>Front-End Development Tools</b> Tools for hand-coded web design, Powerful editors, frameworks, and sandboxes to manually craft and test pixel-perfect front-ends.<br>
+<b>Front-End Development Tools:</b> Tools for hand-coded web design, Powerful editors, frameworks, and sandboxes to manually craft and test pixel-perfect front-ends.<br>
 
 <b>Visual Studio Code</b> — A powerful, extensible code editor for all your development needs.<br>
 <b>Sublime Text</b> / <b>Atom</b> — Lightweight, customizable text editors for coding with speed.<br>
@@ -349,7 +349,7 @@ Web designing is the art and science of creating visually appealing, user-friend
 
 <div><p><h1></h1></p></div>
 
-<b>Design Assets & Inspiration</b> For UI kits, templates, colors, and design ideas, Find ready-to-use templates, icons, colors, and creative inspiration to enhance your design work.<br>
+<b>Design Assets & Inspiration:</b> For UI kits, templates, colors, and design ideas, Find ready-to-use templates, icons, colors, and creative inspiration to enhance your design work.<br>
 
 <b>Dribbble</b> — A community for showcasing and discovering creative work.<br>
 <b>Behance</b> — Platform to showcase and explore creative portfolios.<br>
@@ -365,18 +365,17 @@ Web designing is the art and science of creating visually appealing, user-friend
 <b>Pexels</b> — Free stock photos and videos for personal and commercial use.<br>
 <b>Pixabay</b> — Free images and videos for creative projects.<br>
 
-<!-- Dribbble -->
-<a href="https://dribbble.com" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Dribbble-grey?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble Badge" /></a>
+<!-- Unsplash -->
+<a href="https://unsplash.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Unsplash-grey?style=for-the-badge&logo=unsplash&logoColor=white" alt="Unsplash Badge" /></a>
 
-<!-- Behance -->
-<a href="https://www.behance.net" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Behance-grey?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge" /></a>
+<!-- Pexels -->
+<a href="https://pexels.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Pexels-grey?style=for-the-badge&logo=pexels&logoColor=white" alt="Pexels Badge" /></a>
 
-
-<!-- UI8 -->
-<a href="https://ui8.net" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/UI8-grey?style=for-the-badge&logoColor=white" alt="UI8 Badge" /></a>
+<!-- Pixabay -->
+<a href="https://pixabay.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Pixabay-grey?style=for-the-badge&logo=pixabay&logoColor=white" alt="Pixabay Badge" /></a>
 
 <!-- Envato Elements -->
 <a href="https://elements.envato.com" target="_blank" style="text-decoration: none;">
@@ -385,7 +384,6 @@ Web designing is the art and science of creating visually appealing, user-friend
 <!-- Creative Market -->
 <a href="https://creativemarket.com" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Creative_Market-grey?style=for-the-badge&logo=creativemarket&logoColor=white" alt="Creative Market Badge" /></a>
-
 
 <!-- Coolors -->
 <a href="https://coolors.co" target="_blank" style="text-decoration: none;">
@@ -399,6 +397,17 @@ Web designing is the art and science of creating visually appealing, user-friend
 <a href="https://www.happyhues.co" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Happy_Hues-grey?style=for-the-badge&logoColor=white" alt="Happy Hues Badge" /></a>
 
+<!-- Dribbble -->
+<a href="https://dribbble.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Dribbble-grey?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble Badge" /></a>
+
+<!-- Behance -->
+<a href="https://www.behance.net" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Behance-grey?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge" /></a>
+
+<!-- UI8 -->
+<a href="https://ui8.net" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/UI8-grey?style=for-the-badge&logoColor=white" alt="UI8 Badge" /></a>
 
 <!-- Heroicons -->
 <a href="https://heroicons.com" target="_blank" style="text-decoration: none;">
@@ -409,29 +418,19 @@ Web designing is the art and science of creating visually appealing, user-friend
   <img src="https://img.shields.io/badge/Font_Awesome-grey?style=for-the-badge&logo=fontawesome&logoColor=white" alt="Font Awesome Badge" /></a>
 
 
-<!-- Unsplash -->
-<a href="https://unsplash.com" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Unsplash-grey?style=for-the-badge&logo=unsplash&logoColor=white" alt="Unsplash Badge" /></a>
-
-<!-- Pexels -->
-<a href="https://pexels.com" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Pexels-grey?style=for-the-badge&logo=pexels&logoColor=white" alt="Pexels Badge" /></a>
-
-<!-- Pixabay -->
-<a href="https://pixabay.com" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Pixabay-grey?style=for-the-badge&logo=pixabay&logoColor=white" alt="Pixabay Badge" /></a>
-
-
-
 
 
 <div><p><h1></h1></p></div>
 
-<b>Performance & Optimization Tools</b> To refine and optimize the design, Test responsiveness, improve loading speeds, and convert designs into code for production-ready sites.<br>
+<b>Performance & Optimization Tools:</b> To refine and optimize the design, Test responsiveness, improve loading speeds, and convert designs into code for production-ready sites.<br>
 
 <b>Google Lighthouse</b> helps audit and improve website performance and accessibility.<br>
 <b>Responsively App</b> is a tool for testing responsive designs across multiple devices simultaneously.<br>
 <b>Figma to Code Plugins</b> (like Anima) convert Figma designs directly into developer-friendly code.<br>
+
+<!-- Figma to Code Plugins (e.g., Anima) -->
+<a href="https://www.figma.com/community/plugin/733025261168520714/Anima" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Figma_to_Code_Plugins-grey?style=for-the-badge&logo=figma&logoColor=white" alt="Figma to Code Plugins Badge" /></a>
 
 <!-- Google Lighthouse -->
 <a href="https://developers.google.com/web/tools/lighthouse" target="_blank" style="text-decoration: none;">
@@ -440,10 +439,6 @@ Web designing is the art and science of creating visually appealing, user-friend
 <!-- Responsively App -->
 <a href="https://responsively.app/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Responsively_App-grey?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsively App Badge" /></a>
-
-<!-- Figma to Code Plugins (e.g., Anima) -->
-<a href="https://www.figma.com/community/plugin/733025261168520714/Anima" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Figma_to_Code_Plugins-grey?style=for-the-badge&logo=figma&logoColor=white" alt="Figma to Code Plugins Badge" /></a>
 
 
 
