@@ -38,6 +38,8 @@
 
 In today’s fast-paced digital world, having ready-to-use, versatile templates is essential to streamline workflows, maintain consistency, and boost creativity. Templates for branding, productivity, and designing serve as foundational tools that empower individuals and organizations to create professional, cohesive, and impactful outputs quickly and efficiently.<br>
 
+<div><p><h1></h1></p></div>
+
 <b>Branding Templates:</b> These templates help establish and reinforce a brand’s visual identity through consistent use of logos, color schemes, typography, and messaging. They provide ready-made frameworks for business cards, social media posts, presentations, and marketing materials, ensuring every piece reflects the brand’s personality and values.<br>
 
 <!-- Looka Badge -->
@@ -172,13 +174,207 @@ In today’s fast-paced digital world, having ready-to-use, versatile templates 
 <a>
   <img width="100%" src="https://s.tmimgcdn.com/scr/1200x750/397100/awesome-portfolio-powerpoint-presentation-template_397150-original.jpg"></a>
 
+---
+
+<h3>☆ Web Designing</h3>
+
+Web designing is the art and science of creating visually appealing, user-friendly, and functional websites that effectively communicate a brand’s message and engage visitors. It involves combining aesthetics, usability, and technology to build seamless digital experiences across devices.<br>
+
+<b>UI/UX Design Tools</b> Craft high-fidelity interfaces, interactive prototypes, and team-ready mockups for web and app design.<br>
+
+<!-- Figma -->
+<a href="https://www.figma.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Figma-grey?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" /></a>
+
+<!-- Adobe XD -->
+<a href="https://www.adobe.com/products/xd.html" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Adobe_XD-grey?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD Badge" /></a>
+
+<!-- Sketch -->
+<a href="https://www.sketch.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Sketch-grey?style=for-the-badge&logo=sketch&logoColor=white" alt="Sketch Badge" /></a>
+
+<!-- Framer -->
+<a href="https://www.framer.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Framer-grey?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Badge" /></a>
+
+<!-- Penpot -->
+<a href="https://penpot.app" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Penpot-grey?style=for-the-badge&logo=penpot&logoColor=white" alt="Penpot Badge" /></a>
+
+<!-- UXPin -->
+<a href="https://www.uxpin.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/UXPin-grey?style=for-the-badge&logo=uxpin&logoColor=white" alt="UXPin Badge" /></a>
+
+
+<div><p><h1></h1></p></div>
+
+<b>Wireframing & Planning Tools</b> For planning structure and layout before high-fidelity design, Quickly sketch and structure your app or website’s user flow before jumping into detailed design.<br>
+
+<!-- Balsamiq -->
+<a href="https://balsamiq.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Balsamiq-grey?style=for-the-badge&logo=balsamiq&logoColor=white" alt="Balsamiq Badge" /></a>
+
+<!-- Lucidchart -->
+<a href="https://lucidchart.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Lucidchart-grey?style=for-the-badge&logo=lucidchart&logoColor=white" alt="Lucidchart Badge" /></a>
+
+<!-- Miro / FigJam -->
+<a href="https://miro.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Miro-grey?style=for-the-badge&logo=miro&logoColor=white" alt="Miro Badge" /></a>
+
+<a href="https://figma.com/figjam" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/FigJam-grey?style=for-the-badge&logo=figma&logoColor=white" alt="FigJam Badge" />
+</a>
+
+
+
+<div><p><h1></h1></p></div>
+
+<b>Website Builders (No-code/Low-code)</b> Ideal for designers who want to build responsive websites visually, Visually create responsive websites without writing code, perfect for designers and marketers.<br>
+
+<!-- Webflow -->
+<a href="https://webflow.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Webflow-grey?style=for-the-badge&logo=webflow&logoColor=white" alt="Webflow Badge" /></a>
+
+<!-- Wix Studio -->
+<a href="https://www.wix.com/studio" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Wix_Studio-grey?style=for-the-badge&logo=wix&logoColor=white" alt="Wix Studio Badge" /></a>
+
+<!-- Editor X -->
+<a href="https://www.editorx.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Editor_X-grey?style=for-the-badge&logo=wix&logoColor=white" alt="Editor X Badge" /></a>
+
+<!-- Framer -->
+<a href="https://framer.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Framer-grey?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Badge" /></a>
+
+<!-- Squarespace / Wix / Weebly -->
+<a href="https://www.squarespace.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Squarespace_/_Wix_/_Weebly-grey?style=for-the-badge&logo=squarespace&logoColor=white" alt="Website Builders Badge" /></a>
+
+<!-- Dorik / Carrd -->
+<a href="https://dorik.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Dorik_/_Carrd-grey?style=for-the-badge&logo=circle&logoColor=white" alt="Dorik / Carrd Badge" /></a>
+
+
+
+<div><p><h1></h1></p></div>
+
+<b>Front-End Development Tools</b> Tools for hand-coded web design, Powerful editors, frameworks, and sandboxes to manually craft and test pixel-perfect front-ends.<br>
+
+<!-- Visual Studio Code -->
+<a href="https://code.visualstudio.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-grey?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Badge" /></a>
+
+<!-- Sublime Text / Atom -->
+<a href="https://www.sublimetext.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Sublime_Text-grey?style=for-the-badge&logo=sublimetext&logoColor=white" alt="Sublime Text Badge" /></a>
+<a href="https://atom.io" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Atom-grey?style=for-the-badge&logo=atom&logoColor=white" alt="Atom Badge" /></a>
+
+<!-- CodePen / JSFiddle / StackBlitz -->
+<a href="https://codepen.io" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/CodePen-grey?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen Badge" /></a>
+<a href="https://jsfiddle.net" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/JSFiddle-grey?style=for-the-badge&logo=jsfiddle&logoColor=white" alt="JSFiddle Badge" /></a>
+<a href="https://stackblitz.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/StackBlitz-grey?style=for-the-badge&logo=stackblitz&logoColor=white" alt="StackBlitz Badge" /></a>
+
+<!-- Tailwind CSS -->
+<a href="https://tailwindcss.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS Badge" /></a>
+
+<!-- Bootstrap -->
+<a href="https://getbootstrap.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge" /></a>
+
+
+
+
+<div><p><h1></h1></p></div>
+
+<b>Design Assets & Inspiration</b> For UI kits, templates, colors, and design ideas, Find ready-to-use templates, icons, colors, and creative inspiration to enhance your design work.<br>
+
+<!-- Dribbble -->
+<a href="https://dribbble.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Dribbble-grey?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble Badge" /></a>
+
+<!-- Behance -->
+<a href="https://www.behance.net" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Behance-grey?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge" /></a>
+
+
+<!-- UI8 -->
+<a href="https://ui8.net" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/UI8-grey?style=for-the-badge&logoColor=white" alt="UI8 Badge" /></a>
+
+<!-- Envato Elements -->
+<a href="https://elements.envato.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Envato_Elements-grey?style=for-the-badge&logo=envato&logoColor=white" alt="Envato Elements Badge" /></a>
+
+<!-- Creative Market -->
+<a href="https://creativemarket.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Creative_Market-grey?style=for-the-badge&logo=creativemarket&logoColor=white" alt="Creative Market Badge" /></a>
+
+
+<!-- Coolors -->
+<a href="https://coolors.co" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Coolors-grey?style=for-the-badge&logoColor=white" alt="Coolors Badge" /></a>
+
+<!-- Khroma -->
+<a href="http://khroma.co" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Khroma-grey?style=for-the-badge&logoColor=white" alt="Khroma Badge" /></a>
+
+<!-- Happy Hues -->
+<a href="https://www.happyhues.co" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Happy_Hues-grey?style=for-the-badge&logoColor=white" alt="Happy Hues Badge" /></a>
+
+
+<!-- Heroicons -->
+<a href="https://heroicons.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Heroicons-grey?style=for-the-badge&logoColor=white" alt="Heroicons Badge" /></a>
+
+<!-- Font Awesome -->
+<a href="https://fontawesome.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Font_Awesome-grey?style=for-the-badge&logo=fontawesome&logoColor=white" alt="Font Awesome Badge" /></a>
+
+
+<!-- Unsplash -->
+<a href="https://unsplash.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Unsplash-grey?style=for-the-badge&logo=unsplash&logoColor=white" alt="Unsplash Badge" /></a>
+
+<!-- Pexels -->
+<a href="https://pexels.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Pexels-grey?style=for-the-badge&logo=pexels&logoColor=white" alt="Pexels Badge" /></a>
+
+<!-- Pixabay -->
+<a href="https://pixabay.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Pixabay-grey?style=for-the-badge&logo=pixabay&logoColor=white" alt="Pixabay Badge" /></a>
 
 
 
 
 
+<div><p><h1></h1></p></div>
+
+<b>Performance & Optimization Tools</b> To refine and optimize the design, Test responsiveness, improve loading speeds, and convert designs into code for production-ready sites.<br>
+
+<!-- Google Lighthouse -->
+<a href="https://developers.google.com/web/tools/lighthouse" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Google_Lighthouse-grey?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Google Lighthouse Badge" /></a>
+
+<!-- Responsively App -->
+<a href="https://responsively.app/" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Responsively_App-grey?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsively App Badge" /></a>
+
+<!-- Figma to Code Plugins (e.g., Anima) -->
+<a href="https://www.figma.com/community/plugin/733025261168520714/Anima" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Figma_to_Code_Plugins-grey?style=for-the-badge&logo=figma&logoColor=white" alt="Figma to Code Plugins Badge" /></a>
 
 
+
+<div><p><h1></h1></p></div>
 
 
 
