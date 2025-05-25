@@ -42,6 +42,16 @@ In today’s fast-paced digital world, having ready-to-use, versatile templates 
 
 <b>Branding Templates:</b> These templates help establish and reinforce a brand’s visual identity through consistent use of logos, color schemes, typography, and messaging. They provide ready-made frameworks for business cards, social media posts, presentations, and marketing materials, ensuring every piece reflects the brand’s personality and values.<br>
 
+<b>Looka</b> – AI-powered logo and branding design.<br>
+<b>Canva</b> – User-friendly design platform for all your branding needs.<br>
+<b>Brandmark</b> – Automated brand identity and logo generator.<br>
+<b>Adobe Express</b> – Quick and easy branded content creation.<br>
+<b>Millo.co Tools</b> – Freelance branding and marketing toolkit.<br>
+<b>Coolors</b> – Generate perfect color palettes for your brand.<br>
+<b>Google Fonts</b> – Vast library of free, web-friendly fonts.<br>
+<b>FontPair</b> – Find ideal font combinations for your designs.<br>
+
+
 <!-- Looka Badge -->
 <a href="https://looka.com" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Looka-%23666C72.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMzUyIDY0YzE2Ljc2IDAgMzAuNDcgMTMuNzEgMzAuNDcgMzAuNDdWMzI0LjI5YzAgMTYuNzYtMTMuNzEgMzAuNDctMzAuNDcgMzAuNDdIMTYwLjQ3QzEzOS4wOCAzNTQuNzYgMTIyIDM3MS44NSAxMjIgMzkzLjczYzAgMTcuNjggMTIuNDkgMzQuNzggMjcuNTMgNDMuMzhDMTUwLjg4IDQ4Ni4yMiAxODQuNzIgNDkzIDUxMiA0OTNDNDg5LjMxIDQ3OC45NSA0NjYuMiA0NzMgNDM5LjY2IDQ3M0gxNzcuNDdDMTE4Ljg3IDQ3MyA3MiA0MjYuMTMgNzIgMzcwLjdWNDMuODNDNzIgMTguOTcgOTAuOTcgMCAxMTUuODMgMGgxOTAuMTZ6Ii8+PC9zdmc+" alt="Looka Badge" /></a>
@@ -83,6 +93,16 @@ In today’s fast-paced digital world, having ready-to-use, versatile templates 
 
 <b>Productivity Templates:</b> Designed to optimize workflow and time management, productivity templates include planners, to-do lists, project trackers, meeting agendas, and calendars. They help individuals and teams stay organized, set priorities, and meet deadlines effectively, enhancing overall efficiency and focus.<br>
 
+<b>Super.so</b> – Build websites quickly from Notion pages.<br>
+<b>Trello</b> – Visual project management with Kanban boards.<br>
+<b>ClickUp</b> – All-in-one productivity and task management.<br>
+<b>Figma</b> – Collaborative interface design and prototyping.<br>
+<b>Zapier</b> – Automate workflows by connecting apps.<br>
+<b>Milanote</b> – Visual workspace for creative project planning.<br>
+<b>Notion</b> – Flexible workspace for notes, docs, and databases.<br>
+<b>Creator Tools</b> – Templates and add-ons to extend Notion.<br>
+<b>Slack</b> – Team communication and collaboration platform.<br>
+<b>Google Workspace</b> – Cloud-based productivity tools by Google.<br>
 
 <a href="https://super.so" target="_blank">
   <img src="https://img.shields.io/badge/Super.so-6e6e6e?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Creator Tools Badge"></a>
@@ -130,6 +150,14 @@ In today’s fast-paced digital world, having ready-to-use, versatile templates 
 
 <b>Designing Templates:</b> These serve as creative blueprints for graphic designers, marketers, and content creators. They offer layouts for websites, posters, brochures, infographics, and digital content, combining aesthetics with functionality. By leveraging designing templates, users can save time while ensuring high-quality, visually appealing results.<br>
 
+<b>Figma / FigJam</b> – Collaborative UI/UX design and prototyping tools.<br>
+<b>Creative Market</b> – Marketplace to buy and sell premium design templates.<br>
+<b>Visme</b> – Create infographics, presentations, and visual content.<br>
+<b>Canva / Canva Pro</b> – Easy design for social media, resumes, and business kits.<br>
+<b>Adobe Illustrator / Photoshop / InDesign</b> – Industry-standard creative software suite.<br>
+<b>Envato Elements</b> – Unlimited downloads of premium creative assets.<br>
+<b>Crello (VistaCreate)</b> – Canva-like platform for easy template designing.<br>
+<b>Microsoft Designer</b> – AI-powered tool for quick and simple design creation.<br>
 
 <!-- Figma / FigJam -->
 <a href="https://www.figma.com" target="_blank" style="text-decoration: none;">
@@ -181,6 +209,12 @@ In today’s fast-paced digital world, having ready-to-use, versatile templates 
 Web designing is the art and science of creating visually appealing, user-friendly, and functional websites that effectively communicate a brand’s message and engage visitors. It involves combining aesthetics, usability, and technology to build seamless digital experiences across devices.<br>
 
 <b>UI/UX Design Tools</b> Craft high-fidelity interfaces, interactive prototypes, and team-ready mockups for web and app design.<br>
+<b>Figma</b> – Collaborative UI/UX design and prototyping tool.<br>
+<b>Adobe XD</b> – Powerful vector-based tool for UI/UX and prototyping.<br>
+<b>Sketch</b> – Popular macOS app for interface design and prototyping.<br>
+<b>Framer</b> – Interactive design and rapid prototyping platform.<br>
+<b>Penpot</b> – Open-source design and prototyping tool for teams.<br>
+<b>UXPin</b> – End-to-end design platform with prototyping and collaboration.<br>
 
 <!-- Figma -->
 <a href="https://www.figma.com" target="_blank" style="text-decoration: none;">
@@ -211,6 +245,11 @@ Web designing is the art and science of creating visually appealing, user-friend
 
 <b>Wireframing & Planning Tools</b> For planning structure and layout before high-fidelity design, Quickly sketch and structure your app or website’s user flow before jumping into detailed design.<br>
 
+<b>Balsamiq</b> – Rapid wireframing tool for low-fidelity mockups.<br>
+<b>Lucidchart</b> – Powerful diagramming and flowchart software.<br>
+<b>Miro</b> – Collaborative online whiteboard for teams.<br>
+<b>FigJam</b> – Interactive online whiteboard by Figma for brainstorming.<br>
+
 <!-- Balsamiq -->
 <a href="https://balsamiq.com" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Balsamiq-grey?style=for-the-badge&logo=balsamiq&logoColor=white" alt="Balsamiq Badge" /></a>
@@ -232,6 +271,16 @@ Web designing is the art and science of creating visually appealing, user-friend
 <div><p><h1></h1></p></div>
 
 <b>Website Builders (No-code/Low-code)</b> Ideal for designers who want to build responsive websites visually, Visually create responsive websites without writing code, perfect for designers and marketers.<br>
+
+<b>Webflow</b> – Visual web design and development platform for professional sites.<br>
+<b>Wix Studio</b> – Advanced website builder with design flexibility and collaboration.<br>
+<b>Editor X</b> – Responsive web design platform by Wix for creative professionals.<br>
+<b>Framer</b> – Interactive design and prototyping tool with code capabilities.<br>
+<b>Squarespace</b> – All-in-one website builder for stunning portfolios and stores.<br>
+<b>Wix</b> – Easy drag-and-drop website builder with numerous templates.<br>
+<b>Weebly</b> – Simple website builder with eCommerce features.<br>
+<b>Dorik</b> – Minimalist website builder focused on simplicity and speed.<br>
+<b>Carrd</b> – Lightweight one-page site builder perfect for landing pages.<br>
 
 <!-- Webflow -->
 <a href="https://webflow.com" target="_blank" style="text-decoration: none;">
@@ -262,6 +311,12 @@ Web designing is the art and science of creating visually appealing, user-friend
 <div><p><h1></h1></p></div>
 
 <b>Front-End Development Tools</b> Tools for hand-coded web design, Powerful editors, frameworks, and sandboxes to manually craft and test pixel-perfect front-ends.<br>
+
+<b>Visual Studio Code</b> — A powerful, extensible code editor for all your development needs.<br>
+<b>Sublime Text</b> / <b>Atom</b> — Lightweight, customizable text editors for coding with speed.<br>
+<b>CodePen</b> / <b>JSFiddle</b> / <b>StackBlitz</b> — Online playgrounds for quick front-end prototyping and sharing.<br>
+<b>Tailwind CSS</b> — Utility-first CSS framework for rapid UI development.<br>
+<b>Bootstrap</b> — Popular CSS framework for responsive, mobile-first web design.<br>
 
 <!-- Visual Studio Code -->
 <a href="https://code.visualstudio.com" target="_blank" style="text-decoration: none;">
@@ -295,6 +350,20 @@ Web designing is the art and science of creating visually appealing, user-friend
 <div><p><h1></h1></p></div>
 
 <b>Design Assets & Inspiration</b> For UI kits, templates, colors, and design ideas, Find ready-to-use templates, icons, colors, and creative inspiration to enhance your design work.<br>
+
+<b>Dribbble</b> — A community for showcasing and discovering creative work.<br>
+<b>Behance</b> — Platform to showcase and explore creative portfolios.<br>
+<b>UI8</b> — Marketplace for premium design assets and UI kits.<br>
+<b>Envato Elements</b> — Subscription service for unlimited design assets.<br>
+<b>Creative Market</b> — Buy and sell design templates and assets.<br>
+<b>Coolors</b> — Fast and easy color palette generator.<br>
+<b>Khroma</b> — AI-powered color palette generator for designers.<br>
+<b>Happy Hues</b> — Curated color palettes for UI projects.<br>
+<b>Heroicons</b> — Beautiful, hand-crafted SVG icons.<br>
+<b>Font Awesome</b> — Popular icon toolkit and font library.<br>
+<b>Unsplash</b> — High-quality free stock photos.<br>
+<b>Pexels</b> — Free stock photos and videos for personal and commercial use.<br>
+<b>Pixabay</b> — Free images and videos for creative projects.<br>
 
 <!-- Dribbble -->
 <a href="https://dribbble.com" target="_blank" style="text-decoration: none;">
@@ -360,6 +429,10 @@ Web designing is the art and science of creating visually appealing, user-friend
 
 <b>Performance & Optimization Tools</b> To refine and optimize the design, Test responsiveness, improve loading speeds, and convert designs into code for production-ready sites.<br>
 
+<b>Google Lighthouse</b> helps audit and improve website performance and accessibility.<br>
+<b>Responsively App</b> is a tool for testing responsive designs across multiple devices simultaneously.<br>
+<b>Figma to Code Plugins</b> (like Anima) convert Figma designs directly into developer-friendly code.<br>
+
 <!-- Google Lighthouse -->
 <a href="https://developers.google.com/web/tools/lighthouse" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Google_Lighthouse-grey?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Google Lighthouse Badge" /></a>
@@ -376,6 +449,8 @@ Web designing is the art and science of creating visually appealing, user-friend
 
 <div><p><h1></h1></p></div>
 
+<img width="100%" src="https://cdn.dribbble.com/userupload/10672391/file/original-8164ed2ea354fd4647693a95153e472d.png?resize=1504x1128&vertical=center">
+<img width="100%" src="https://cdn.dribbble.com/userupload/12744646/file/original-a01a7662e022b77b46b181bed5f5b5df.png?resize=1504x1128&vertical=center">
 
 
 
