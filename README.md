@@ -169,9 +169,8 @@ In today’s fast-paced digital world, having ready-to-use, versatile templates 
 
 <img width="100%" src="https://tint.creativemarket.com/xTH2Fwq6BmqUgW5ck0tUIqebySPZ00-FB3F81Rgw7EI/width:1200/height:800/gravity:nowe/rt:fill-down/el:1/czM6Ly9maWxlcy5jcmVhdGl2ZW1hcmtldC5jb20vaW1hZ2VzL3NjcmVlbnNob3RzL3Byb2R1Y3RzLzE5NTgvMTk1ODAvMTk1ODA1NjEvMTYtby5qcGc?1697638643">
 
-
-
-
+<a>
+  <img width="100%" src="https://s.tmimgcdn.com/scr/1200x750/397100/awesome-portfolio-powerpoint-presentation-template_397150-original.jpg"></a>
 
 
 
