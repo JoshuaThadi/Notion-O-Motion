@@ -28,6 +28,9 @@
   <img src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" alt="Dribbble Icon" width="100" style="vertical-align: middle; margin: 0 5px;"></a><br>
 
 
+
+
+
 <div align="left">
 <h1 align="center">✯ Digital Products</h1>
 
@@ -70,14 +73,15 @@ In today’s fast-paced digital world, having ready-to-use, versatile templates 
 
 
 
+
+
+
+
 <br>
 
 <b>Productivity Templates:</b> Designed to optimize workflow and time management, productivity templates include planners, to-do lists, project trackers, meeting agendas, and calendars. They help individuals and teams stay organized, set priorities, and meet deadlines effectively, enhancing overall efficiency and focus.<br>
 
-<a href="https://www.notion.so" target="_blank">
-  <img src="https://img.shields.io/badge/Notion-4D5054?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge"></a>  
-<a href="https://www.notion.so/templates" target="_blank">
-  <img src="https://img.shields.io/badge/Creator_Tools-7B797D?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Creator Tools Badge"></a>
+
 <a href="https://super.so" target="_blank">
   <img src="https://img.shields.io/badge/Super.so-6e6e6e?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Creator Tools Badge"></a>
 
@@ -88,14 +92,6 @@ In today’s fast-paced digital world, having ready-to-use, versatile templates 
 <!-- ClickUp Badge -->
 <a href="https://clickup.com" target="_blank" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/ClickUp-6e6e6e?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp Badge" /></a>
-
-<!-- Slack Badge -->
-<a href="https://slack.com" target="_blank" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/Slack-6e6e6e?style=for-the-badge&logo=slack&logoColor=white" alt="Slack Badge" /></a>
-
-<!-- Google Workspace Badge -->
-<a href="https://workspace.google.com" target="_blank" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/Google_Workspace-6e6e6e?style=for-the-badge&logo=googleworkspace&logoColor=white" alt="Google Workspace Badge" /></a>
 
 <!-- Figma Badge -->
 <a href="https://figma.com" target="_blank" style="text-decoration:none;">
@@ -109,19 +105,33 @@ In today’s fast-paced digital world, having ready-to-use, versatile templates 
 <a href="https://milanote.com" target="_blank" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/Milanote-6e6e6e?style=for-the-badge&logo=milanote&logoColor=white" alt="Milanote Badge" /></a>
 
+<a href="https://www.notion.so" target="_blank">
+  <img src="https://img.shields.io/badge/Notion-4D5054?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge"></a>  
+<a href="https://www.notion.so/templates" target="_blank">
+  <img src="https://img.shields.io/badge/Creator_Tools-7B797D?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Creator Tools Badge"></a>
+
+<!-- Slack Badge -->
+<a href="https://slack.com" target="_blank" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Slack-6e6e6e?style=for-the-badge&logo=slack&logoColor=white" alt="Slack Badge" /></a>
+
+<!-- Google Workspace Badge -->
+<a href="https://workspace.google.com" target="_blank" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Google_Workspace-6e6e6e?style=for-the-badge&logo=googleworkspace&logoColor=white" alt="Google Workspace Badge" /></a>
+
+
+
+
+
 
 
 <br>
 
 <b>Designing Templates:</b> These serve as creative blueprints for graphic designers, marketers, and content creators. They offer layouts for websites, posters, brochures, infographics, and digital content, combining aesthetics with functionality. By leveraging designing templates, users can save time while ensuring high-quality, visually appealing results.<br>
 
-<!-- Canva Badge -->
-<a href="https://www.canva.com" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Canva-%237B797D.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Badge"></a>
 
-<!-- Canva Pro Badge -->
-<a href="https://www.canva.com/pro/" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Canva_Pro-%237B797D.svg?style=for-the-badge&logo=canva&logoColor=%23FFD700" alt="Canva Pro Badge"></a>
+<!-- Figma / FigJam -->
+<a href="https://www.figma.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Figma%20%2F%20FigJam-grey?style=for-the-badge&logo=figma&logoColor=white" alt="Figma / FigJam Badge" /></a>
 
 <!-- Creative Market Badge -->
 <a href="https://creativemarket.com" target="_blank" style="text-decoration: none;">
@@ -132,13 +142,7 @@ In today’s fast-paced digital world, having ready-to-use, versatile templates 
 <a href="https://www.adobe.com" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Adobe%20Illustrator%2F%20InDesign-grey?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Suite Badge" /></a>
 
-<!-- Figma / FigJam -->
-<a href="https://www.figma.com" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Figma%20%2F%20FigJam-grey?style=for-the-badge&logo=figma&logoColor=white" alt="Figma / FigJam Badge" /></a>
 
-<!-- Creative Market -->
-<a href="https://creativemarket.com" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Creative_Market-grey?style=for-the-badge&logo=creativemarket&logoColor=white" alt="Creative Market Badge" /></a>
 
 <!-- Envato Elements -->
 <a href="https://elements.envato.com" target="_blank" style="text-decoration: none;">
@@ -148,6 +152,14 @@ In today’s fast-paced digital world, having ready-to-use, versatile templates 
 <a href="https://www.visme.co" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Visme-grey?style=for-the-badge&logo=visme&logoColor=white" alt="Visme Badge" /></a>
 
+<!-- Canva Badge -->
+<a href="https://www.canva.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Canva-%237B797D.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Badge"></a>
+
+<!-- Canva Pro Badge -->
+<a href="https://www.canva.com/pro/" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Canva_Pro-%237B797D.svg?style=for-the-badge&logo=canva&logoColor=%23FFD700" alt="Canva Pro Badge"></a>
+
 <!-- Crello (VistaCreate) -->
 <a href="https://vistacreate.com" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Crello%20%28VistaCreate%29-grey?style=for-the-badge&logo=crello&logoColor=white" alt="Crello (VistaCreate) Badge" /></a>
@@ -156,6 +168,9 @@ In today’s fast-paced digital world, having ready-to-use, versatile templates 
 <a href="https://designer.microsoft.com" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Microsoft_Designer-grey?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Designer Badge" /></a>
 
+<!-- Creative Market -->
+<a href="https://creativemarket.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Creative_Market-grey?style=for-the-badge&logo=creativemarket&logoColor=white" alt="Creative Market Badge" /></a>
 
 
 
@@ -181,8 +196,15 @@ In today’s fast-paced digital world, having ready-to-use, versatile templates 
 
 ---
 
-<div align="center">
-    <h3>🌐 My Notion Website and template Link:</h3>
+<div align="left">
+
+## 📦 Coming Soon
+
+Free logo asset packs<br>
+Notion & Canva marketplace templates<br>
+Case studies and design breakdowns<br>
+
+<h3>🌐 My Notion Website and template Link:</h3>
 
 <a href="https://masterjudah-notion-website.super.site/" target="_blank">
   <img width="220px" src="https://img.shields.io/badge/Super.so-Notion-FFA500?style=for-the-badge&logo=notion&logoColor=black&labelColor=FFCB42" alt="Super.so"></a>
