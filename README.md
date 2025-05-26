@@ -479,21 +479,22 @@ eBooks and PDFs are versatile digital formats widely used for sharing informatio
 <b>Designing for Emotion</b> – PDF on emotional design in UI/UX by Aarron Walter (available via publishers or SlideShare).<br>
 <b>Logo Design Love</b> – A professional guide on logo creation and branding, available as PDFs across platforms.<br>
 
-<!-- Canva Design School -->
-<a href="https://www.canva.com/learn/design-elements/" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Canva_Design_School-grey?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Design School Badge" /></a>
 
 <!-- Adobe Creative Cloud -->
 <a href="https://helpx.adobe.com/creative-cloud/tutorials-explore.html" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Adobe_Creative_Tutorials-grey?style=for-the-badge&logo=adobecreativecloud&logoColor=white" alt="Adobe Creative Tutorials Badge" /></a>
 
-<!-- The Brand Gap -->
-<a href="https://www.slideshare.net/search/slideshow?searchfrom=header&q=the+brand+gap" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/The_Brand_Gap-grey?style=for-the-badge&logo=openaccess&logoColor=white" alt="The Brand Gap Badge" /></a>
+<!-- Canva Design School -->
+<a href="https://www.canva.com/learn/design-elements/" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Canva_Design_School-grey?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Design School Badge" /></a>
 
 <!-- Designing for Emotion -->
 <a href="https://www.slideshare.net/search/slideshow?searchfrom=header&q=Designing+for+Emotion" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Designing_for_Emotion-grey?style=for-the-badge&logo=emotion&logoColor=white" alt="Designing for Emotion Badge" /></a>
+
+<!-- The Brand Gap -->
+<a href="https://www.slideshare.net/search/slideshow?searchfrom=header&q=the+brand+gap" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/The_Brand_Gap-grey?style=for-the-badge&logo=openaccess&logoColor=white" alt="The Brand Gap Badge" /></a>
 
 <!-- Logo Design Love -->
 <a href="https://www.slideshare.net/search/slideshow?searchfrom=header&q=Logo+Design+Love" target="_blank" style="text-decoration: none;">
@@ -524,13 +525,15 @@ eBooks and PDFs are versatile digital formats widely used for sharing informatio
 <a href="https://www.uxpin.com/studio/ebooks/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/UXPin_eBooks-grey?style=for-the-badge&logo=uxpin&logoColor=white" alt="UXPin eBooks Badge" /></a>
 
+  
+<!-- Design Systems Handbook -->
+<a href="https://www.designbetter.co/design-systems-handbook" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Design_Systems_Handbook-grey?style=for-the-badge&logo=bookstack&logoColor=white" alt="Design Systems Handbook Badge" /></a>
+
 <!-- Smashing Magazine eBooks -->
 <a href="https://www.smashingmagazine.com/ebooks/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Smashing_Magazine-grey?style=for-the-badge&logo=smashingmagazine&logoColor=white" alt="Smashing Magazine Badge" /></a>
 
-<!-- Design Systems Handbook -->
-<a href="https://www.designbetter.co/design-systems-handbook" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Design_Systems_Handbook-grey?style=for-the-badge&logo=bookstack&logoColor=white" alt="Design Systems Handbook Badge" /></a>
 
 
 
