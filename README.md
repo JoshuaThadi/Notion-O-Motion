@@ -574,6 +574,27 @@ eBooks and PDFs are versatile digital formats widely used for sharing informatio
 
 Tutorials and courses are essential tools for structured learning, skill development, and personal or professional growth in the digital age. They provide step-by-step guidance, hands-on practice, and in-depth knowledge on a wide range of topics — from coding and design to business, technology, and personal development.
 
+<!-- Dribbble – eLearning Website Pack -->
+<a href="https://dribbble.com/shots/21189635-NextLearn-eLearning-Website-Pack" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Dribbble%20(NextLearn)-grey?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble NextLearn Badge" /></a>
+
+<!-- ScreenPal -->
+<a href="https://screenpal.com/" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/ScreenPal-grey?style=for-the-badge&logo=loom&logoColor=white" alt="ScreenPal Badge" /></a>
+
+<!-- ThemeForest – Course Templates -->
+<a href="https://themeforest.net/search/course" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/ThemeForest%20(Courses)-grey?style=for-the-badge&logo=envato&logoColor=white" alt="ThemeForest Badge" /></a>
+
+<!-- Wix – Education Templates -->
+<a href="https://www.wix.com/website/templates/html/education/classes-courses" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Wix%20(Education)-grey?style=for-the-badge&logo=wix&logoColor=white" alt="Wix Badge" /></a>
+
+<!-- Webflow – Course Templates -->
+<a href="https://webflow.com/list/courses" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Webflow%20(Courses)-grey?style=for-the-badge&logo=webflow&logoColor=white" alt="Webflow Courses Badge" /></a>
+
+
 <div><p><h1></h1></p></div>
 
 <b>Course Creation & Video Recording</b>
@@ -585,6 +606,10 @@ Screencast-O-Matic – Lightweight tool for screen capture tutorials.<br>
 Descript – Video editing with AI features like transcription and overdubbing.<br>
 Final Cut Pro / Adobe Premiere Pro – Advanced video editing for polished courses.<br>
 
+<a href="https://www.apple.com/final-cut-pro/" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Final_Cut_Pro-grey?style=for-the-badge&logo=apple&logoColor=white" alt="Final Cut Pro Badge" /></a>
+<a href="https://www.adobe.com/products/premiere.html" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-grey?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Premiere Pro Badge" /></a>
 <a href="https://www.techsmith.com/camtasia.html" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Camtasia-grey?style=for-the-badge&logo=techsmith&logoColor=white" alt="Camtasia Badge" /></a>
 <a href="https://obsproject.com" target="_blank" style="text-decoration: none;">
@@ -595,10 +620,7 @@ Final Cut Pro / Adobe Premiere Pro – Advanced video editing for polished cours
   <img src="https://img.shields.io/badge/Screencast--O--Matic-grey?style=for-the-badge&logo=screencast-o-matic&logoColor=white" alt="Screencast-O-Matic Badge" /></a>
 <a href="https://www.descript.com" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Descript-grey?style=for-the-badge&logo=descript&logoColor=white" alt="Descript Badge" /></a>
-<a href="https://www.apple.com/final-cut-pro/" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Final_Cut_Pro-grey?style=for-the-badge&logo=apple&logoColor=white" alt="Final Cut Pro Badge" /></a>
-<a href="https://www.adobe.com/products/premiere.html" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-grey?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Premiere Pro Badge" /></a>
+
 
 
 <div><p><h1></h1></p></div>
