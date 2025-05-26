@@ -480,6 +480,13 @@ eBooks and PDFs are versatile digital formats widely used for sharing informatio
 <b>Logo Design Love</b> – A professional guide on logo creation and branding, available as PDFs across platforms.<br>
 
 
+<!-- The Brand Gap -->
+<a href="https://www.slideshare.net/search/slideshow?searchfrom=header&q=the+brand+gap" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/The_Brand_Gap-grey?style=for-the-badge&logo=openaccess&logoColor=white" alt="The Brand Gap Badge" /></a>
+
+<!-- Logo Design Love -->
+<a href="https://www.slideshare.net/search/slideshow?searchfrom=header&q=Logo+Design+Love" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Logo_Design_Love-grey?style=for-the-badge&logo=love&logoColor=white" alt="Logo Design Love Badge" /></a>
 <!-- Adobe Creative Cloud -->
 <a href="https://helpx.adobe.com/creative-cloud/tutorials-explore.html" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Adobe_Creative_Tutorials-grey?style=for-the-badge&logo=adobecreativecloud&logoColor=white" alt="Adobe Creative Tutorials Badge" /></a>
@@ -492,13 +499,7 @@ eBooks and PDFs are versatile digital formats widely used for sharing informatio
 <a href="https://www.slideshare.net/search/slideshow?searchfrom=header&q=Designing+for+Emotion" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Designing_for_Emotion-grey?style=for-the-badge&logo=emotion&logoColor=white" alt="Designing for Emotion Badge" /></a>
 
-<!-- The Brand Gap -->
-<a href="https://www.slideshare.net/search/slideshow?searchfrom=header&q=the+brand+gap" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/The_Brand_Gap-grey?style=for-the-badge&logo=openaccess&logoColor=white" alt="The Brand Gap Badge" /></a>
 
-<!-- Logo Design Love -->
-<a href="https://www.slideshare.net/search/slideshow?searchfrom=header&q=Logo+Design+Love" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Logo_Design_Love-grey?style=for-the-badge&logo=love&logoColor=white" alt="Logo Design Love Badge" /></a>
 
 
 
