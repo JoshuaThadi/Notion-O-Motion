@@ -570,6 +570,132 @@ eBooks and PDFs are versatile digital formats widely used for sharing informatio
 
 ---
 
+<h3>✵ Tutorials and Courses Context</h3>
+
+Tutorials and courses are essential tools for structured learning, skill development, and personal or professional growth in the digital age. They provide step-by-step guidance, hands-on practice, and in-depth knowledge on a wide range of topics — from coding and design to business, technology, and personal development.
+
+<div><p><h1></h1></p></div>
+
+<b>Course Creation & Video Recording</b>
+
+Camtasia – All-in-one screen recorder and video editor.<br>
+OBS Studio – Free and open-source screen recording and live streaming.<br>
+Loom – Fast screen and webcam recording, ideal for tutorials.<br>
+Screencast-O-Matic – Lightweight tool for screen capture tutorials.<br>
+Descript – Video editing with AI features like transcription and overdubbing.<br>
+Final Cut Pro / Adobe Premiere Pro – Advanced video editing for polished courses.<br>
+
+<a href="https://www.techsmith.com/camtasia.html" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Camtasia-grey?style=for-the-badge&logo=techsmith&logoColor=white" alt="Camtasia Badge" /></a>
+<a href="https://obsproject.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/OBS_Studio-grey?style=for-the-badge&logo=obsproject&logoColor=white" alt="OBS Studio Badge" /></a>
+<a href="https://www.loom.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Loom-grey?style=for-the-badge&logo=loom&logoColor=white" alt="Loom Badge" /></a>
+<a href="https://screencast-o-matic.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Screencast--O--Matic-grey?style=for-the-badge&logo=screencast-o-matic&logoColor=white" alt="Screencast-O-Matic Badge" /></a>
+<a href="https://www.descript.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Descript-grey?style=for-the-badge&logo=descript&logoColor=white" alt="Descript Badge" /></a>
+<a href="https://www.apple.com/final-cut-pro/" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Final_Cut_Pro-grey?style=for-the-badge&logo=apple&logoColor=white" alt="Final Cut Pro Badge" /></a>
+<a href="https://www.adobe.com/products/premiere.html" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-grey?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Premiere Pro Badge" /></a>
+
+
+<div><p><h1></h1></p></div>
+
+<b> Interactive & Design Tools</b>
+
+Canva / Canva Pro – Design course slides, thumbnails, and resources.<br>
+Figma – Create UI/UX visuals or design-based lessons.<br>
+Tella – Modern async presentation and tutorial recording tool.<br>
+Genially – Build interactive learning experiences, infographics, and games.<br>
+Notion – Create text-based guides, curriculums, and knowledge bases.<br>
+
+<a href="https://www.canva.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Canva-grey?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Badge" /></a>
+<a href="https://www.figma.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Figma-grey?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" /></a>
+<a href="https://tella.tv" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Tella-grey?style=for-the-badge&logo=googledrive&logoColor=white" alt="Tella Badge" /></a>
+<a href="https://www.genial.ly" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Genially-grey?style=for-the-badge&logo=genially&logoColor=white" alt="Genially Badge" /></a>
+<a href="https://www.notion.so" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Notion-grey?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge" /></a>
+
+
+
+
+
+
+
+
+<div><p><h1></h1></p></div>
+
+<b>Platforms to Host or Sell Courses</b>
+
+Teachable – All-in-one platform to build and sell online courses.<br>
+Thinkific – Create branded online schools with quizzes and certificates.<br>
+Kajabi – Premium platform for course selling and marketing.<br>
+Gumroad – Sell simple video tutorials, PDFs, or course bundles.<br>
+Podia – Sell digital products including courses, webinars, and memberships.<br>
+Udemy – Publish and monetize courses for a global audience.<br>
+Skillshare – Create and publish creative or business tutorials.<br>
+YouTube – Free platform to reach a massive audience with video tutorials.<br>
+
+<a href="https://teachable.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Teachable-grey?style=for-the-badge&logo=teachable&logoColor=white" alt="Teachable Badge" /></a>
+<a href="https://www.thinkific.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Thinkific-grey?style=for-the-badge&logo=thinkific&logoColor=white" alt="Thinkific Badge" /></a>
+<a href="https://kajabi.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Kajabi-grey?style=for-the-badge&logo=kajabi&logoColor=white" alt="Kajabi Badge" /></a>
+<a href="https://gumroad.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Gumroad-grey?style=for-the-badge&logo=gumroad&logoColor=white" alt="Gumroad Badge" /></a>
+<a href="https://www.podia.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Podia-grey?style=for-the-badge&logo=podia&logoColor=white" alt="Podia Badge" /></a>
+<a href="https://www.udemy.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Udemy-grey?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy Badge" /></a>
+<a href="https://www.skillshare.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Skillshare-grey?style=for-the-badge&logo=skillshare&logoColor=white" alt="Skillshare Badge" /></a>
+<a href="https://www.youtube.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/YouTube-grey?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" /></a>
+
+
+
+
+
+
+<div><p><h1></h1></p></div>
+
+<b>Learning Management Systems (LMS)</b>
+
+Moodle – Free, open-source LMS widely used by universities.<br>
+TalentLMS – Corporate training and e-learning delivery platform.<br>
+LearnDash (WordPress plugin) – Turn your WP site into a full course platform.<br>
+
+<a href="https://moodle.org" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Moodle-grey?style=for-the-badge&logo=moodle&logoColor=white" alt="Moodle Badge" /></a>
+<a href="https://www.talentlms.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/TalentLMS-grey?style=for-the-badge&logo=talentlms&logoColor=white" alt="TalentLMS Badge" /></a>
+<a href="https://www.learndash.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/LearnDash-grey?style=for-the-badge&logo=wordpress&logoColor=white" alt="LearnDash Badge" /></a>
+
+
+
+
+
+
+
+<div><p><h1></h1></p></div>
+
+
+<img width="100%" src="https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/5f1856bebb5478e2deb8e40a_5efc045fd0212a0360dcf7bf_school-webflow-template-academy.png">
+<img width="100%" src="https://cdn.dribbble.com/userupload/6224452/file/original-4a8e032251576f130098c37336522255.png?resize=1504x1128&vertical=center">
+
+
+---
+
+
+
 
 
 
