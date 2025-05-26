@@ -574,21 +574,24 @@ eBooks and PDFs are versatile digital formats widely used for sharing informatio
 
 Tutorials and courses are essential tools for structured learning, skill development, and personal or professional growth in the digital age. They provide step-by-step guidance, hands-on practice, and in-depth knowledge on a wide range of topics — from coding and design to business, technology, and personal development.
 
-<!-- Dribbble – eLearning Website Pack -->
-<a href="https://dribbble.com/shots/21189635-NextLearn-eLearning-Website-Pack" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Dribbble%20(NextLearn)-grey?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble NextLearn Badge" /></a>
 
 <!-- ScreenPal -->
 <a href="https://screenpal.com/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/ScreenPal-grey?style=for-the-badge&logo=loom&logoColor=white" alt="ScreenPal Badge" /></a>
 
+<!-- Wix – Education Templates -->
+<a href="https://www.wix.com/website/templates/html/education/classes-courses" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Wix%20(Education)-grey?style=for-the-badge&logo=wix&logoColor=white" alt="Wix Badge" /></a>
+
 <!-- ThemeForest – Course Templates -->
 <a href="https://themeforest.net/search/course" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/ThemeForest%20(Courses)-grey?style=for-the-badge&logo=envato&logoColor=white" alt="ThemeForest Badge" /></a>
 
-<!-- Wix – Education Templates -->
-<a href="https://www.wix.com/website/templates/html/education/classes-courses" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Wix%20(Education)-grey?style=for-the-badge&logo=wix&logoColor=white" alt="Wix Badge" /></a>
+
+<!-- Dribbble – eLearning Website Pack -->
+<a href="https://dribbble.com/shots/21189635-NextLearn-eLearning-Website-Pack" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Dribbble%20(NextLearn)-grey?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble NextLearn Badge" /></a>
+
 
 <!-- Webflow – Course Templates -->
 <a href="https://webflow.com/list/courses" target="_blank" style="text-decoration: none;">
