@@ -602,12 +602,12 @@ Tutorials and courses are essential tools for structured learning, skill develop
 
 <b>Course Creation & Video Recording</b>
 
-Camtasia – All-in-one screen recorder and video editor.<br>
-OBS Studio – Free and open-source screen recording and live streaming.<br>
-Loom – Fast screen and webcam recording, ideal for tutorials.<br>
-Screencast-O-Matic – Lightweight tool for screen capture tutorials.<br>
-Descript – Video editing with AI features like transcription and overdubbing.<br>
-Final Cut Pro / Adobe Premiere Pro – Advanced video editing for polished courses.<br>
+<b>Camtasia</b> – All-in-one screen recorder and video editor.<br>
+<b>OBS Studio</b> – Free and open-source screen recording and live streaming.<br>
+<b>Loom</b> – Fast screen and webcam recording, ideal for tutorials.<br>
+<b>Screencast-O-Matic</b> – Lightweight tool for screen capture tutorials.<br>
+<b>Descript</b> – Video editing with AI features like transcription and overdubbing.<br>
+<b>Final Cut Pro / Adobe Premiere Pro</b> – Advanced video editing for polished courses.<br>
 
 <a href="https://www.apple.com/final-cut-pro/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Final_Cut_Pro-grey?style=for-the-badge&logo=apple&logoColor=white" alt="Final Cut Pro Badge" /></a>
@@ -630,11 +630,11 @@ Final Cut Pro / Adobe Premiere Pro – Advanced video editing for polished cours
 
 <b> Interactive & Design Tools</b>
 
-Canva / Canva Pro – Design course slides, thumbnails, and resources.<br>
-Figma – Create UI/UX visuals or design-based lessons.<br>
-Tella – Modern async presentation and tutorial recording tool.<br>
-Genially – Build interactive learning experiences, infographics, and games.<br>
-Notion – Create text-based guides, curriculums, and knowledge bases.<br>
+<b>Canva / Canva Pro</b> – Design course slides, thumbnails, and resources.<br>
+<b>Figma</b> – Create UI/UX visuals or design-based lessons.<br>
+<b>Tella</b> – Modern async presentation and tutorial recording tool.<br>
+<b>Genially</b> – Build interactive learning experiences, infographics, and games.<br>
+<b>Notion</b> – Create text-based guides, curriculums, and knowledge bases.<br>
 
 <a href="https://www.canva.com" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Canva-grey?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Badge" /></a>
@@ -657,15 +657,14 @@ Notion – Create text-based guides, curriculums, and knowledge bases.<br>
 <div><p><h1></h1></p></div>
 
 <b>Platforms to Host or Sell Courses</b>
-
-Teachable – All-in-one platform to build and sell online courses.<br>
-Thinkific – Create branded online schools with quizzes and certificates.<br>
-Kajabi – Premium platform for course selling and marketing.<br>
-Gumroad – Sell simple video tutorials, PDFs, or course bundles.<br>
-Podia – Sell digital products including courses, webinars, and memberships.<br>
-Udemy – Publish and monetize courses for a global audience.<br>
-Skillshare – Create and publish creative or business tutorials.<br>
-YouTube – Free platform to reach a massive audience with video tutorials.<br>
+<b>Teachable</b> – All-in-one platform to build and sell online courses.<br>
+<b>Thinkific</b> – Create branded online schools with quizzes and certificates.<br>
+<b>Kajabi</b> – Premium platform for course selling and marketing.<br>
+<b>Gumroad</b> – Sell simple video tutorials, PDFs, or course bundles.<br>
+<b>Podia</b> – Sell digital products including courses, webinars, and memberships.<br>
+<b>Udemy</b> – Publish and monetize courses for a global audience.<br>
+<b>Skillshare</b> – Create and publish creative or business tutorials.<br>
+<b>YouTube</b> – Free platform to reach a massive audience with video tutorials.<br>
 
 <a href="https://teachable.com" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Teachable-grey?style=for-the-badge&logo=teachable&logoColor=white" alt="Teachable Badge" /></a>
@@ -693,9 +692,9 @@ YouTube – Free platform to reach a massive audience with video tutorials.<br>
 
 <b>Learning Management Systems (LMS)</b>
 
-Moodle – Free, open-source LMS widely used by universities.<br>
-TalentLMS – Corporate training and e-learning delivery platform.<br>
-LearnDash (WordPress plugin) – Turn your WP site into a full course platform.<br>
+<b>Moodle</b> – Free, open-source LMS widely used by universities.<br>
+<b>TalentLMS</b> – Corporate training and e-learning delivery platform.<br>
+<b>LearnDash (WordPress plugin)</b> – Turn your WP site into a full course platform.<br>
 
 <a href="https://moodle.org" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Moodle-grey?style=for-the-badge&logo=moodle&logoColor=white" alt="Moodle Badge" /></a>
