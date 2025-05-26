@@ -448,6 +448,148 @@ Web designing is the art and science of creating visually appealing, user-friend
 <img width="100%" src="https://cdn.dribbble.com/userupload/12744646/file/original-a01a7662e022b77b46b181bed5f5b5df.png?resize=1504x1128&vertical=center">
 
 
+---
+
+<h3>✪ eBooks and PDFs</h3>
+
+eBooks and PDFs are versatile digital formats widely used for sharing information, knowledge, and stories in a convenient and accessible way. They enable users to distribute content that is easily readable across multiple devices—such as computers, tablets, and smartphones—while preserving formatting and design.
+
+<!-- Google Docs -->
+<a href="https://docs.google.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Google_Docs-grey?style=for-the-badge&logo=googledocs&logoColor=white" alt="Google Docs Badge" /></a>
+
+<!-- Microsoft Word -->
+<a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Microsoft_Word-grey?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Microsoft Word Badge" /></a>
+
+<!-- Adobe InDesign -->
+<a href="https://www.adobe.com/products/indesign.html" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Adobe_InDesign-grey?style=for-the-badge&logo=adobeindesign&logoColor=white" alt="Adobe InDesign Badge" /></a>
+
+  
+
+<div><p><h1></h1></p></div>
+
+
+<b>Design & Branding eBooks / PDFs</b>: 
+
+<b>Canva Design School</b> – Free guides on branding, color theory, and design basics with downloadable PDFs and brand kits.<br>
+<b>Adobe Creative Cloud</b> – Learn Photoshop, Illustrator, and InDesign with official tutorials and free eBooks.<br>
+<b>The Brand Gap</b> – Preview PDFs on building standout brands by Marty Neumeier (available via SlideShare or search).<br>
+<b>Designing for Emotion</b> – PDF on emotional design in UI/UX by Aarron Walter (available via publishers or SlideShare).<br>
+<b>Logo Design Love</b> – A professional guide on logo creation and branding, available as PDFs across platforms.<br>
+
+<!-- Canva Design School -->
+<a href="https://www.canva.com/learn/design-elements/" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Canva_Design_School-grey?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Design School Badge" /></a>
+
+<!-- Adobe Creative Cloud -->
+<a href="https://helpx.adobe.com/creative-cloud/tutorials-explore.html" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Adobe_Creative_Tutorials-grey?style=for-the-badge&logo=adobecreativecloud&logoColor=white" alt="Adobe Creative Tutorials Badge" /></a>
+
+<!-- The Brand Gap -->
+<a href="https://www.slideshare.net/search/slideshow?searchfrom=header&q=the+brand+gap" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/The_Brand_Gap-grey?style=for-the-badge&logo=openaccess&logoColor=white" alt="The Brand Gap Badge" /></a>
+
+<!-- Designing for Emotion -->
+<a href="https://www.slideshare.net/search/slideshow?searchfrom=header&q=Designing+for+Emotion" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Designing_for_Emotion-grey?style=for-the-badge&logo=emotion&logoColor=white" alt="Designing for Emotion Badge" /></a>
+
+<!-- Logo Design Love -->
+<a href="https://www.slideshare.net/search/slideshow?searchfrom=header&q=Logo+Design+Love" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Logo_Design_Love-grey?style=for-the-badge&logo=love&logoColor=white" alt="Logo Design Love Badge" /></a>
+
+
+
+
+
+
+
+
+<div><p><h1></h1></p></div>
+
+<b>UI/UX & Figma Tools eBooks</b>
+
+<b>Figma Handbook</b> – Master Figma with official guides and assets, covering beginner to expert workflows.<br>
+<b>UXPin</b> – Free UX eBooks on design systems, prototyping, and wireframing essentials.<br>
+<b>Smashing Magazine</b> – Comprehensive UX eBooks on responsive design, accessibility, and mobile-first strategies.<br>
+<b>Design Systems Handbook</b> – InVision’s practical guide to building and maintaining scalable design systems.<br>
+
+
+<!-- Figma Handbook -->
+<a href="https://help.figma.com/hc/en-us" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Figma_Handbook-grey?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Handbook Badge" /></a>
+
+<!-- UXPin eBooks -->
+<a href="https://www.uxpin.com/studio/ebooks/" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/UXPin_eBooks-grey?style=for-the-badge&logo=uxpin&logoColor=white" alt="UXPin eBooks Badge" /></a>
+
+<!-- Smashing Magazine eBooks -->
+<a href="https://www.smashingmagazine.com/ebooks/" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Smashing_Magazine-grey?style=for-the-badge&logo=smashingmagazine&logoColor=white" alt="Smashing Magazine Badge" /></a>
+
+<!-- Design Systems Handbook -->
+<a href="https://www.designbetter.co/design-systems-handbook" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Design_Systems_Handbook-grey?style=for-the-badge&logo=bookstack&logoColor=white" alt="Design Systems Handbook Badge" /></a>
+
+
+
+<div><p><h1></h1></p></div>
+
+<b>Productivity Tools & Workflow PDFs</b>
+
+<b>Notion</b> – Official productivity and dashboard workflow guides, with PDFs in help resources.<br>
+<b>Trello</b> – Task management tutorial PDFs covering project boards and setup basics.<br>
+<b>ClickUp</b> – Free eBooks on time management, workflows, and productivity strategies for teams.<br>
+
+<!-- Notion Guide -->
+<a href="https://www.notion.so/help/guides" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Notion_Guide-grey?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Guide Badge" /></a>
+
+<!-- Trello PDF Tutorials -->
+<a href="https://help.trello.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Trello_Tutorials-grey?style=for-the-badge&logo=trello&logoColor=white" alt="Trello Tutorials Badge" /></a>
+
+<!-- ClickUp eBooks -->
+<a href="https://clickup.com/blog/ebooks/" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/ClickUp_eBooks-grey?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp eBooks Badge" /></a>
+
+
+
+
+<div><p><h1></h1></p></div>
+
+
+
+<img width="100%" src="https://static.vecteezy.com/system/resources/thumbnails/027/513/860/small_2x/ebook-template-and-12-pages-ebook-layout-vector.jpg">
+<img width="100%" src="https://designshack.net/wp-content/uploads/bold-minimal-ebook-template-269-1.jpg">
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
