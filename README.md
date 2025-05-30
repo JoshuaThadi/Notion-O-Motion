@@ -1363,10 +1363,151 @@ Logo designing is a crucial aspect of branding that involves creating a unique v
 <img width="100%" src="https://cdn.dribbble.com/userupload/17015422/file/original-33ff6c87ce111f0e18eb03ba39b56879.jpg?resize=1504x1128&vertical=center">
 <img width="100%" src="https://cdn.dribbble.com/userupload/14966397/file/original-9aab5a37af428077d760d56ca278a0e6.jpg?resize=1504x1128&vertical=center">
 
+---
+
+<h3>❂ Illustrations</h3>
+
+Illustrations are expressive visual elements that transform ideas, stories, and concepts into engaging, imaginative imagery. They play a vital role in enhancing communication by adding clarity, emotion, and personality to content across various mediums—such as websites, books, apps, marketing materials, and educational tools.
+
+<div><p><h1></h1></p></div>
+
+<b>Professional Desktop Illustration Software</b><br>
+
+<b>Adobe Illustrator</b> – Industry-standard vector graphics editor.<br>
+<b>Adobe Photoshop</b> – Raster-based editor, widely used for digital painting and illustration.<br>
+<b>CorelDRAW</b> – Vector illustration and page layout software.<br>
+<b>Affinity Designer</b> – Affordable alternative to Illustrator with both vector and raster support.<br>
+<b>Clip Studio Paint</b> – Popular among manga, comic, and character illustrators.<br>
+<b>PaintTool SAI</b> – Lightweight, high-performance painting tool for Windows.<br>
+<b>Corel Painter</b> – Advanced natural media painting software.<br>
+<b>Rebelle</b> – Realistic watercolor and acrylic painting software.<br>
+
+<!-- Adobe Illustrator -->
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-grey?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" /></a>
+
+<!-- Adobe Photoshop -->
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-grey?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" /></a>
+
+<!-- CorelDRAW -->
+<a href="https://www.coreldraw.com/" target="_blank">
+  <img src="https://img.shields.io/badge/CorelDRAW-grey?style=for-the-badge&logo=coreldraw&logoColor=white" alt="CorelDRAW" /></a>
+
+<!-- Affinity Designer -->
+<a href="https://affinity.serif.com/en-us/designer/" target="_blank">
+  <img src="https://img.shields.io/badge/Affinity%20Designer-grey?style=for-the-badge&logo=affinitydesigner&logoColor=white" alt="Affinity Designer" /></a>
+
+<!-- Clip Studio Paint -->
+<a href="https://www.clipstudio.net/en/" target="_blank">
+  <img src="https://img.shields.io/badge/Clip%20Studio%20Paint-grey?style=for-the-badge&logo=clipstudio&logoColor=white" alt="Clip Studio Paint" /></a>
+
+<!-- PaintTool SAI -->
+<a href="https://www.systemax.jp/en/sai/" target="_blank">
+  <img src="https://img.shields.io/badge/PaintTool%20SAI-grey?style=for-the-badge&logoColor=white" alt="PaintTool SAI" /></a>
+
+<!-- Corel Painter -->
+<a href="https://www.painterartist.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Corel%20Painter-grey?style=for-the-badge&logoColor=white" alt="Corel Painter" /></a>
+
+<!-- Rebelle -->
+<a href="https://www.escapemotions.com/products/rebelle/" target="_blank">
+  <img src="https://img.shields.io/badge/Rebelle-grey?style=for-the-badge&logoColor=white" alt="Rebelle" /></a>
 
 
+<div><p><h1></h1></p></div>
+
+<b>Open Source & Free Alternatives</b><br>
+
+<b>Inkscape</b> – Free vector graphics software (similar to Illustrator).<br>
+<b>Krita</b> – Powerful free software for concept art, texture & matte painters, and illustrations.<br>
+<b>GIMP</b> – Open-source raster image editor (alternative to Photoshop).<br>
+<b>MediBang Paint</b> – Lightweight illustration software for comics/manga (cross-platform).<br>
+<b>FireAlpaca</b> – Simple and free drawing tool with layers and brushes.<br>
+
+<!-- Inkscape -->
+<a href="https://inkscape.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Inkscape-grey?style=for-the-badge&logo=inkscape&logoColor=white" alt="Inkscape" /></a>
+
+<!-- Krita -->
+<a href="https://krita.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Krita-grey?style=for-the-badge&logo=krita&logoColor=white" alt="Krita" /></a>
+
+<!-- GIMP -->
+<a href="https://www.gimp.org/" target="_blank">
+  <img src="https://img.shields.io/badge/GIMP-grey?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP" /></a>
+
+<!-- MediBang Paint -->
+<a href="https://medibangpaint.com/en/" target="_blank">
+  <img src="https://img.shields.io/badge/MediBang%20Paint-grey?style=for-the-badge&logoColor=white" alt="MediBang Paint" /></a>
+
+<!-- FireAlpaca -->
+<a href="https://firealpaca.com/" target="_blank">
+  <img src="https://img.shields.io/badge/FireAlpaca-grey?style=for-the-badge&logoColor=white" alt="FireAlpaca" /></a>
 
 
+<div><p><h1></h1></p></div>
+
+<b>Browser-Based & Online Illustration Tools</b><br>
+
+<b>Canva</b> – Drag-and-drop design tool with basic illustration capabilities.<br>
+<b>Vectr</b> – Free vector design tool (browser + desktop).<br>
+<b>Gravit Designer</b> – Advanced vector tool online and offline (free + pro).<br>
+<b>Kleki</b> – Simple browser-based sketching tool.<br>
+<b>Aggie.io</b> – Collaborative online drawing for teams.<br>
+
+<!-- Canva -->
+<a href="https://www.canva.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Canva-grey?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" /></a>
+
+<!-- Vectr -->
+<a href="https://vectr.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Vectr-grey?style=for-the-badge&logoColor=white" alt="Vectr" /></a>
+
+<!-- Gravit Designer -->
+<a href="https://www.designer.io/en/" target="_blank">
+  <img src="https://img.shields.io/badge/Gravit%20Designer-grey?style=for-the-badge&logoColor=white" alt="Gravit Designer" /></a>
+
+<!-- Kleki -->
+<a href="https://kleki.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Kleki-grey?style=for-the-badge&logoColor=white" alt="Kleki" /></a>
+
+<!-- Aggie.io -->
+<a href="https://aggie.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Aggie.io-grey?style=for-the-badge&logoColor=white" alt="Aggie.io" /></a>
+
+
+<div><p><h1></h1></p></div>
+
+<b> Mobile Apps for Illustration</b><br>
+
+<b>Procreate (iPad)</b> – Highly rated professional drawing app for iPad.<br>
+<b>Adobe Fresco</b> – Vector and raster drawing app for iPad and Surface devices.<br>
+<b>Ibis Paint X</b> – Popular among anime/manga illustrators on mobile.<br>
+<b>Concepts</b> – Sketching and design tool with infinite canvas.<br>
+
+<!-- Procreate -->
+<a href="https://procreate.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Procreate-grey?style=for-the-badge&logo=procreate&logoColor=white" alt="Procreate" /></a>
+
+<!-- Adobe Fresco -->
+<a href="https://www.adobe.com/products/fresco.html" target="_blank">
+  <img src="https://img.shields.io/badge/Adobe%20Fresco-grey?style=for-the-badge&logo=adobefresco&logoColor=white" alt="Adobe Fresco" /></a>
+
+<!-- Ibis Paint X -->
+<a href="https://ibispaint.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Ibis%20Paint%20X-grey?style=for-the-badge&logoColor=white" alt="Ibis Paint X" /></a>
+
+<!-- Concepts -->
+<a href="https://concepts.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Concepts-grey?style=for-the-badge&logoColor=white" alt="Concepts" /></a>
+
+
+<div><p><h1></h1></p></div>
+
+
+<img width="100%" src="https://cdn.dribbble.com/userupload/15675760/file/original-2000f4440222d29ee276889b30b5a277.png?resize=1504x1128&vertical=center">
+<img width="100%" src="https://cdn.dribbble.com/userupload/17998433/file/original-5d93e5edd1e59c0792958d1e4738066e.jpg?resize=1504x1128&vertical=center">
 
 
 
