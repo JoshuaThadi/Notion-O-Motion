@@ -949,15 +949,6 @@ Icons and fonts are fundamental elements in modern design that enhance both the 
 <a href="https://feathericons.com" target="_blank">
   <img src="https://img.shields.io/badge/Feather_Icons-grey?style=for-the-badge&logo=feather&logoColor=white" alt="Feather Icons" /></a>
 
-
-<!-- FontAwesome -->
-<a href="https://fontawesome.com" target="_blank">
-  <img src="https://img.shields.io/badge/FontAwesome-grey?style=for-the-badge&logo=fontawesome&logoColor=white" alt="FontAwesome" /></a>
-
-<!-- Heroicons -->
-<a href="https://heroicons.com" target="_blank">
-  <img src="https://img.shields.io/badge/Heroicons-grey?style=for-the-badge&logo=simpleicons&logoColor=white" alt="Heroicons" /></a>
-
 <!-- Lucide Icons -->
 <a href="https://lucide.dev" target="_blank">
   <img src="https://img.shields.io/badge/Lucide-grey?style=for-the-badge&logo=simpleicons&logoColor=white" alt="Lucide Icons" /></a>
@@ -970,11 +961,17 @@ Icons and fonts are fundamental elements in modern design that enhance both the 
 <a href="https://flaticon.com" target="_blank">
   <img src="https://img.shields.io/badge/Flaticon-grey?style=for-the-badge&logo=flaticon&logoColor=white" alt="Flaticon" /></a>
 
+<!-- FontAwesome -->
+<a href="https://fontawesome.com" target="_blank">
+  <img src="https://img.shields.io/badge/FontAwesome-grey?style=for-the-badge&logo=fontawesome&logoColor=white" alt="FontAwesome" /></a>
+
+<!-- Heroicons -->
+<a href="https://heroicons.com" target="_blank">
+  <img src="https://img.shields.io/badge/Heroicons-grey?style=for-the-badge&logo=simpleicons&logoColor=white" alt="Heroicons" /></a>
+
 <!-- Icons8 -->
 <a href="https://icons8.com" target="_blank">
   <img src="https://img.shields.io/badge/Icons8-grey?style=for-the-badge&logo=icons8&logoColor=white" alt="Icons8" /></a>
-
-
 
 <!-- Material Icons -->
 <a href="https://fonts.google.com/icons" target="_blank">
@@ -1134,6 +1131,18 @@ Graphics and animations are powerful visual tools that bring ideas to life, enha
 <b>Canva</b> – Online design tool for creating social media, posters, and more.<br>
 <b>Figma</b> – UI/UX design tool with collaboration features.<br>
 
+<!-- Adobe Photoshop -->
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+  <img src="https://img.shields.io/badge/Photoshop-grey?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" /></a>
+
+<!-- Adobe Illustrator -->
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+  <img src="https://img.shields.io/badge/Illustrator-grey?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" /></a>
+
+<!-- Figma -->
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Figma-grey?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
+
 <!-- CorelDRAW -->
 <a href="https://www.coreldraw.com/" target="_blank">
   <img src="https://img.shields.io/badge/CorelDRAW-grey?style=for-the-badge&logo=coreldraw&logoColor=white" alt="CorelDRAW" /></a>
@@ -1153,18 +1162,6 @@ Graphics and animations are powerful visual tools that bring ideas to life, enha
 <!-- Canva -->
 <a href="https://www.canva.com/" target="_blank">
   <img src="https://img.shields.io/badge/Canva-grey?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" /></a>
-
-<!-- Adobe Photoshop -->
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-  <img src="https://img.shields.io/badge/Photoshop-grey?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" /></a>
-
-<!-- Adobe Illustrator -->
-<a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-  <img src="https://img.shields.io/badge/Illustrator-grey?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" /></a>
-
-<!-- Figma -->
-<a href="https://www.figma.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Figma-grey?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
 
 
 <div><p><h1></h1></p></div>
