@@ -1251,17 +1251,117 @@ Graphics and animations are powerful visual tools that bring ideas to life, enha
 
 <div><p><h1></h1></p></div>
 
-<img width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/fd97bf40684929.5788bcf8a3512.png">
-<img width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/4f804940684929.57a1004a11d9e.jpg">
+<img width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/091089194042773.661d38a331980.gif">
+<img width="100%" src="https://www.2008php.com//2019_Website_appreciate/2019-04-10/201904101302050j2Si.gif">
 
 ---
 
+<h3>❋ Logo Designing</h3><br>
+
+Logo designing is a crucial aspect of branding that involves creating a unique visual symbol to represent a company, product, or service. A logo is often the first impression of a brand, serving as its identity across all platforms—whether digital or print.
+
+<div><p><h1></h1></p></div>
 
 
+<b>Professional Desktop Software</b><br>
+<b>Adobe Illustrator</b> – Industry-standard vector graphics editor.<br>
+<b>CorelDRAW</b> – Advanced vector illustration and page layout.<br>
+<b>Affinity Designer</b> – Professional vector/raster tool, one-time purchase.<br>
+<b>Inkscape</b> – Free, open-source vector graphics editor.<br>
+<b>Gravit Designer</b> – Cross-platform design tool (has a free and pro version).<br>
+
+<!-- Adobe Illustrator -->
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-grey?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" /></a>
+
+<!-- CorelDRAW -->
+<a href="https://www.coreldraw.com/" target="_blank">
+  <img src="https://img.shields.io/badge/CorelDRAW-grey?style=for-the-badge&logo=coreldraw&logoColor=white" alt="CorelDRAW" /></a>
+
+<!-- Affinity Designer -->
+<a href="https://affinity.serif.com/en-us/designer/" target="_blank">
+  <img src="https://img.shields.io/badge/Affinity_Designer-grey?style=for-the-badge&logo=affinitydesigner&logoColor=white" alt="Affinity Designer" /></a>
+
+<!-- Inkscape -->
+<a href="https://inkscape.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Inkscape-grey?style=for-the-badge&logo=inkscape&logoColor=white" alt="Inkscape" /></a>
+
+<!-- Gravit Designer -->
+<a href="https://www.designer.io/en/" target="_blank">
+  <img src="https://img.shields.io/badge/Gravit_Designer-grey?style=for-the-badge&logo=gravitdesigner&logoColor=white" alt="Gravit Designer" /></a>
 
 
+<div><p><h1></h1></p></div>
+
+<b>Browser-Based & Online Tools</b><br>
+<b>Canva</b> – Beginner-friendly tool with templates and drag-drop design.<br>
+<b>Looka</b> – AI-powered logo maker.<br>
+<b>Hatchful by Shopify</b> – Free logo generator.<br>
+<b>LogoMakr</b> – Simple and fast online logo editor.<br>
+<b>Vectr</b> – Free vector graphics software (browser & desktop).<br>
+<b>BrandCrowd</b> – Logo maker and branding tool.<br>
+
+<!-- Canva -->
+<a href="https://www.canva.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Canva-grey?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" /></a>
+
+<!-- Looka -->
+<a href="https://looka.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Looka-grey?style=for-the-badge&logo=looka&logoColor=white" alt="Looka" /></a>
+
+<!-- Hatchful -->
+<a href="https://hatchful.shopify.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Hatchful-grey?style=for-the-badge&logo=shopify&logoColor=white" alt="Hatchful by Shopify" /></a>
+
+<!-- LogoMakr -->
+<a href="https://logomakr.com/" target="_blank">
+  <img src="https://img.shields.io/badge/LogoMakr-grey?style=for-the-badge&logoColor=white" alt="LogoMakr" /></a>
+
+<!-- Vectr -->
+<a href="https://vectr.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Vectr-grey?style=for-the-badge&logoColor=white" alt="Vectr" /></a>
+
+<!-- BrandCrowd -->
+<a href="https://www.brandcrowd.com/" target="_blank">
+  <img src="https://img.shields.io/badge/BrandCrowd-grey?style=for-the-badge&logoColor=white" alt="BrandCrowd" /></a>
 
 
+<div><p><h1></h1></p></div>
+
+<b>Icon & Font Resources (Useful for Logo Design)</b><br>
+<b>FontAwesome / Google Fonts</b> – Open-source icon and font libraries.<br>
+<b>Flaticon / Icons8</b> – Icons and vector art assets.<br>
+<b>DaFont / 1001 Fonts</b> – Stylish fonts for creative logo typography.<br>
+
+<!-- FontAwesome -->
+<a href="https://fontawesome.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Font_Awesome-grey?style=for-the-badge&logo=fontawesome&logoColor=white" alt="Font Awesome" /></a>
+
+<!-- Google Fonts -->
+<a href="https://fonts.google.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Google_Fonts-grey?style=for-the-badge&logo=googlefonts&logoColor=white" alt="Google Fonts" /></a>
+
+<!-- Flaticon -->
+<a href="https://www.flaticon.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Flaticon-grey?style=for-the-badge&logo=flaticon&logoColor=white" alt="Flaticon" /></a>
+
+<!-- Icons8 -->
+<a href="https://icons8.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Icons8-grey?style=for-the-badge&logo=icons8&logoColor=white" alt="Icons8" /></a>
+
+<!-- DaFont -->
+<a href="https://www.dafont.com/" target="_blank">
+  <img src="https://img.shields.io/badge/DaFont-grey?style=for-the-badge&logoColor=white" alt="DaFont" /></a>
+
+<!-- 1001 Fonts -->
+<a href="https://www.1001fonts.com/" target="_blank">
+  <img src="https://img.shields.io/badge/1001_Fonts-grey?style=for-the-badge&logoColor=white" alt="1001 Fonts" /></a>
+
+
+<div><p><h1></h1></p></div>
+
+<img width="100%" src="https://cdn.dribbble.com/userupload/17015422/file/original-33ff6c87ce111f0e18eb03ba39b56879.jpg?resize=1504x1128&vertical=center">
+<img width="100%" src="https://cdn.dribbble.com/userupload/14966397/file/original-9aab5a37af428077d760d56ca278a0e6.jpg?resize=1504x1128&vertical=center">
 
 
 
