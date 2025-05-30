@@ -1099,6 +1099,176 @@ Stock and media assets are essential resources in content creation, offering hig
 <img width="100%" src="https://cdn.dribbble.com/userupload/24639228/file/original-642aa9952eb3a2f3389fd962fd87b029.png?resize=1504x1128&vertical=center">
 <img width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/801633198120167.669a74d281c07.jpg">
 
+---
+
+<h3>✹ Graphics and Animations</h3>
+
+Graphics and animations are powerful visual tools that bring ideas to life, enhance user engagement, and communicate complex messages with clarity and creativity. They play a vital role across digital platforms—from websites and apps to marketing campaigns, educational content, and entertainment.
+
+<div><p><h1></h1></p></div>
+
+<b>Graphics Design Tools</b><br>
+
+<b>Adobe Photoshop</b> – Industry-standard for raster image editing and digital art.<br>
+<b>Adobe Illustrator</b> – Vector graphic design for logos, illustrations, and icons.<br>
+<b>CorelDRAW</b> – Vector illustration tool used in professional design.<br>
+<b>GIMP</b> – Free, open-source alternative to Photoshop.<br>
+<b>Krita</b> – Free digital painting software focused on concept art, illustrations, and comics.<br>
+<b>Affinity Designer</b> – Professional vector/raster design tool; alternative to Adobe Illustrator.<br>
+<b>Canva</b> – Online design tool for creating social media, posters, and more.<br>
+<b>Figma</b> – UI/UX design tool with collaboration features.<br>
+
+<!-- Adobe Photoshop -->
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+  <img src="https://img.shields.io/badge/Photoshop-grey?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" /></a>
+
+<!-- Adobe Illustrator -->
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+  <img src="https://img.shields.io/badge/Illustrator-grey?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" /></a>
+
+<!-- CorelDRAW -->
+<a href="https://www.coreldraw.com/" target="_blank">
+  <img src="https://img.shields.io/badge/CorelDRAW-grey?style=for-the-badge&logo=coreldraw&logoColor=white" alt="CorelDRAW" /></a>
+
+<!-- GIMP -->
+<a href="https://www.gimp.org/" target="_blank">
+  <img src="https://img.shields.io/badge/GIMP-grey?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP" /></a>
+
+<!-- Krita -->
+<a href="https://krita.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Krita-grey?style=for-the-badge&logo=krita&logoColor=white" alt="Krita" /></a>
+
+<!-- Affinity Designer -->
+<a href="https://affinity.serif.com/designer/" target="_blank">
+  <img src="https://img.shields.io/badge/Affinity%20Designer-grey?style=for-the-badge&logo=affinitydesigner&logoColor=white" alt="Affinity Designer" /></a>
+
+<!-- Canva -->
+<a href="https://www.canva.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Canva-grey?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" /></a>
+
+<!-- Figma -->
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Figma-grey?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
+
+
+<div><p><h1></h1></p></div>
+
+<b>3D Graphics & Modeling Tools</b><br>
+
+<b>Blender</b> – Open-source 3D modeling, animation, VFX, and game creation tool.<br>
+<b>Autodesk Maya</b> – Industry-standard for 3D animation and visual effects.<br>
+<b>Autodesk 3ds Max</b> – Powerful 3D modeling and rendering software.<br>
+<b>Cinema 4D</b> – Popular for motion graphics and 3D design.<br>
+<b>ZBrush</b> – Digital sculpting tool used for high-detail 3D character design.<br>
+<b>SketchUp</b> – 3D modeling software, popular in architecture and interior design.<br>
+
+<!-- Blender -->
+<a href="https://www.blender.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Blender-grey?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" /></a>
+
+<!-- Autodesk Maya -->
+<a href="https://www.autodesk.com/products/maya/" target="_blank">
+  <img src="https://img.shields.io/badge/Maya-grey?style=for-the-badge&logo=autodesk&logoColor=white" alt="Maya" /></a>
+
+<!-- Autodesk 3ds Max -->
+<a href="https://www.autodesk.com/products/3ds-max/" target="_blank">
+  <img src="https://img.shields.io/badge/3ds%20Max-grey?style=for-the-badge&logo=autodesk&logoColor=white" alt="3ds Max" /></a>
+
+<!-- Cinema 4D -->
+<a href="https://www.maxon.net/en/cinema-4d" target="_blank">
+  <img src="https://img.shields.io/badge/Cinema%204D-grey?style=for-the-badge&logo=cinema4d&logoColor=white" alt="Cinema 4D" /></a>
+
+<!-- ZBrush -->
+<a href="https://www.maxon.net/en/zbrush" target="_blank">
+  <img src="https://img.shields.io/badge/ZBrush-grey?style=for-the-badge&logo=zbrush&logoColor=white" alt="ZBrush" /></a>
+
+<!-- SketchUp -->
+<a href="https://www.sketchup.com/" target="_blank">
+  <img src="https://img.shields.io/badge/SketchUp-grey?style=for-the-badge&logo=sketchup&logoColor=white" alt="SketchUp" /></a>
+
+
+<div><p><h1></h1></p></div>
+
+<b>2D/3D Animation Tools</b><br>
+
+<b>Adobe After Effects</b> – Motion graphics, compositing, and animation tool.<br>
+<b>Adobe Animate</b> – Create interactive 2D animations and web content.<br>
+<b>Toon Boom Harmony</b> – Professional 2D animation software used in studios.<br>
+<b>Synfig Studio</b> – Open-source 2D animation tool for vector tweening.<br>
+<b>Pencil2D</b> – Lightweight and beginner-friendly 2D animation software.<br>
+<b>OpenToonz</b> – Free 2D animation software used by Studio Ghibli.<br>
+
+<!-- Adobe After Effects -->
+<a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
+  <img src="https://img.shields.io/badge/After%20Effects-grey?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects" /></a>
+
+<!-- Adobe Animate -->
+<a href="https://www.adobe.com/products/animate.html" target="_blank">
+  <img src="https://img.shields.io/badge/Animate-grey?style=for-the-badge&logo=adobeanimate&logoColor=white" alt="Animate" /></a>
+
+<!-- Toon Boom Harmony -->
+<a href="https://www.toonboom.com/products/harmony" target="_blank">
+  <img src="https://img.shields.io/badge/Toon%20Boom-grey?style=for-the-badge&logo=toonboom&logoColor=white" alt="Toon Boom Harmony" /></a>
+
+<!-- Synfig Studio -->
+<a href="https://synfig.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Synfig-grey?style=for-the-badge&logo=synfigstudio&logoColor=white" alt="Synfig" /></a>
+
+<!-- Pencil2D -->
+<a href="https://www.pencil2d.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Pencil2D-grey?style=for-the-badge&logo=pencil2d&logoColor=white" alt="Pencil2D" /></a>
+
+<!-- OpenToonz -->
+<a href="https://opentoonz.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/OpenToonz-grey?style=for-the-badge&logo=opentoonz&logoColor=white" alt="OpenToonz" /></a>
+
+
+<div><p><h1></h1></p></div>
+
+<b>Video Editing + Compositing</b><br>
+
+<b>Adobe Premiere Pro</b> – Professional video editing suite.<br>
+<b>DaVinci Resolve</b> – Color correction, video editing, and compositing.<br>
+<b>Final Cut Pro</b> – High-performance video editing for macOS.<br>
+<b>HitFilm Express</b> – Free video editing and VFX tool.<br>
+
+<!-- Adobe Premiere Pro -->
+<a href="https://www.adobe.com/products/premiere.html" target="_blank">
+  <img src="https://img.shields.io/badge/Premiere%20Pro-grey?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere Pro" /></a>
+
+<!-- DaVinci Resolve -->
+<a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank">
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-grey?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" /></a>
+
+<!-- Final Cut Pro -->
+<a href="https://www.apple.com/final-cut-pro/" target="_blank">
+  <img src="https://img.shields.io/badge/Final%20Cut%20Pro-grey?style=for-the-badge&logo=apple&logoColor=white" alt="Final Cut Pro" /></a>
+
+<!-- HitFilm Express -->
+<a href="https://fxhome.com/product/hitfilm" target="_blank">
+  <img src="https://img.shields.io/badge/HitFilm-grey?style=for-the-badge&logo=hitfilmexpress&logoColor=white" alt="HitFilm" /></a>
+
+
+<div><p><h1></h1></p></div>
+
+<img width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/fd97bf40684929.5788bcf8a3512.png">
+<img width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/4f804940684929.57a1004a11d9e.jpg">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
