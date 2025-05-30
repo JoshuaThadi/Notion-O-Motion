@@ -896,6 +896,132 @@ Code scripts are reusable blocks of code written to automate tasks, solve specif
 <img width="100%" src="https://media.licdn.com/dms/image/v2/D4D12AQFqqjFeAFeLNQ/article-cover_image-shrink_720_1280/B4DZYGW2IyHAAM-/0/1743863384390?e=2147483647&v=beta&t=tp3Sz8YyTKhuWS1waOe7P63JBL0JJyApPeWvP1YsFUY">
 <img width="100%" src="https://cdn.dribbble.com/userupload/3914936/file/original-3115e000a3ad99cdf20f340c744c22cc.jpg?resize=1504x1128&vertical=center">
 
+---
+
+<h3>✷ Icons and Fonts</h3>
+
+Icons and fonts are fundamental elements in modern design that enhance both the visual appeal and usability of digital and print content. Together, they help communicate ideas quickly, improve navigation, and establish a cohesive brand identity.
+
+<div><p><h1></h1></p></div>
+
+<b>Icon Design & Management</b><br>
+
+<b>Figma</b> – UI/UX design tool with built-in icon design and libraries.<br>
+<b>Adobe Illustrator</b> – Industry-standard vector graphic design tool.<br>
+<b>Iconscout</b> – Free and premium icons, illustrations, and 3D assets.<br>
+<b>Flaticon</b> – Massive collection of free icons in various styles.<br>
+<b>Icons8</b> – Free icons, illustrations, and UI elements with customization.<br>
+<b>FontAwesome</b> – Popular icon set used in web development.<br>
+<b>Heroicons</b> – Open-source icons, especially for Tailwind CSS projects.<br>
+<b>Material Icons</b> – Google’s official icon set for Material Design.<br>
+<b>Bootstrap Icons</b> – Icon library from the Bootstrap team.<br>
+<b>Feather Icons</b> – Lightweight and minimalistic icon set.<br>
+<b>Lucide Icons</b> – Community fork of Feather Icons with more features.<br>
+<b>SVG Repo</b> – Free SVG vectors and icons for commercial use.<br>
+
+<!-- Figma -->
+<a href="https://figma.com" target="_blank">
+  <img src="https://img.shields.io/badge/Figma-grey?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
+
+<!-- Adobe Illustrator -->
+<a href="https://adobe.com/products/illustrator.html" target="_blank">
+  <img src="https://img.shields.io/badge/Illustrator-grey?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" /></a>
+
+<!-- Iconscout -->
+<a href="https://iconscout.com" target="_blank">
+  <img src="https://img.shields.io/badge/Iconscout-grey?style=for-the-badge&logo=iconscout&logoColor=white" alt="Iconscout" /></a>
+
+<!-- Flaticon -->
+<a href="https://flaticon.com" target="_blank">
+  <img src="https://img.shields.io/badge/Flaticon-grey?style=for-the-badge&logo=flaticon&logoColor=white" alt="Flaticon" /></a>
+
+<!-- Icons8 -->
+<a href="https://icons8.com" target="_blank">
+  <img src="https://img.shields.io/badge/Icons8-grey?style=for-the-badge&logo=icons8&logoColor=white" alt="Icons8" /></a>
+
+<!-- FontAwesome -->
+<a href="https://fontawesome.com" target="_blank">
+  <img src="https://img.shields.io/badge/FontAwesome-grey?style=for-the-badge&logo=fontawesome&logoColor=white" alt="FontAwesome" /></a>
+
+<!-- Heroicons -->
+<a href="https://heroicons.com" target="_blank">
+  <img src="https://img.shields.io/badge/Heroicons-grey?style=for-the-badge&logo=simpleicons&logoColor=white" alt="Heroicons" /></a>
+
+<!-- Material Icons -->
+<a href="https://fonts.google.com/icons" target="_blank">
+  <img src="https://img.shields.io/badge/Material_Icons-grey?style=for-the-badge&logo=materialdesign&logoColor=white" alt="Material Icons" /></a>
+
+<!-- Bootstrap Icons -->
+<a href="https://icons.getbootstrap.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Bootstrap_Icons-grey?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Icons" /></a>
+
+<!-- Feather Icons -->
+<a href="https://feathericons.com" target="_blank">
+  <img src="https://img.shields.io/badge/Feather_Icons-grey?style=for-the-badge&logo=feather&logoColor=white" alt="Feather Icons" /></a>
+
+<!-- Lucide Icons -->
+<a href="https://lucide.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Lucide-grey?style=for-the-badge&logo=simpleicons&logoColor=white" alt="Lucide Icons" /></a>
+
+<!-- SVG Repo -->
+<a href="https://www.svgrepo.com/" target="_blank">
+  <img src="https://img.shields.io/badge/SVGRepo-grey?style=for-the-badge&logo=svg&logoColor=white" alt="SVG Repo" /></a>
+
+<div><p><h1></h1></p></div>
+
+<b>Font Creation & Typography Tools</b><br>
+
+<b>FontForge</b> – Free and open-source font editor.<br>
+<b>Glyphs</b> – Mac-only professional font creation tool.<br>
+<b>BirdFont</b> – Easy-to-use tool for creating vector fonts.<br>
+<b>FontStruct</b> – Online font builder using a block-based design system.<br>
+<b>Google Fonts</b> – Free font directory for web and design use.<br>
+<b>Adobe Fonts</b> – Premium and high-quality fonts integrated with Creative Cloud.<br>
+<b>DaFont</b> – Archive of downloadable fonts, free and commercial.<br>
+<b>Font Squirrel</b> – Free fonts for commercial use with licensing clarity.<br>
+<b>WhatTheFont</b> – Tool to identify fonts from images.<br>
+
+<!-- FontForge -->
+<a href="https://fontforge.org" target="_blank">
+  <img src="https://img.shields.io/badge/FontForge-grey?style=for-the-badge&logo=fontforge&logoColor=white" alt="FontForge" /></a>
+
+<!-- Glyphs -->
+<a href="https://glyphsapp.com" target="_blank">
+  <img src="https://img.shields.io/badge/Glyphs-grey?style=for-the-badge&logo=glyphs&logoColor=white" alt="Glyphs" /></a>
+
+<!-- BirdFont -->
+<a href="https://birdfont.org" target="_blank">
+  <img src="https://img.shields.io/badge/BirdFont-grey?style=for-the-badge&logo=simpleicons&logoColor=white" alt="BirdFont" /></a>
+
+<!-- FontStruct -->
+<a href="https://fontstruct.com" target="_blank">
+  <img src="https://img.shields.io/badge/FontStruct-grey?style=for-the-badge&logo=simpleicons&logoColor=white" alt="FontStruct" /></a>
+
+<!-- Google Fonts -->
+<a href="https://fonts.google.com" target="_blank">
+  <img src="https://img.shields.io/badge/Google_Fonts-grey?style=for-the-badge&logo=googlefonts&logoColor=white" alt="Google Fonts" /></a>
+
+<!-- Adobe Fonts -->
+<a href="https://fonts.adobe.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Adobe_Fonts-grey?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Fonts" /></a>
+
+<!-- DaFont -->
+<a href="https://dafont.com" target="_blank">
+  <img src="https://img.shields.io/badge/DaFont-grey?style=for-the-badge&logo=simpleicons&logoColor=white" alt="DaFont" /></a>
+
+<!-- Font Squirrel -->
+<a href="https://www.fontsquirrel.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Font_Squirrel-grey?style=for-the-badge&logo=simpleicons&logoColor=white" alt="Font Squirrel" /></a>
+
+<!-- WhatTheFont -->
+<a href="https://www.myfonts.com/WhatTheFont/" target="_blank">
+  <img src="https://img.shields.io/badge/WhatTheFont-grey?style=for-the-badge&logo=whatthefont&logoColor=white" alt="WhatTheFont" /></a>
+
+<div><p><h1></h1></p></div>
+
+
+<img width="100%" src="https://cdn.dribbble.com/userupload/15746048/file/original-c098979921f106b24615046d19b3169b.png?resize=1504x1128&vertical=center">
+<img width="100%" src="https://cdn.dribbble.com/userupload/41538839/file/original-779005e05dc6f5d8d66ca7b7b92fa8b1.png?resize=1024x768&vertical=center">
 
 
 
@@ -905,6 +1031,17 @@ Code scripts are reusable blocks of code written to automate tasks, solve specif
 
 
 
+
+
+
+
+
+
+
+
+
+
+---
 
 
 <div align="left">
