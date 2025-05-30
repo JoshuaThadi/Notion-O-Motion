@@ -743,6 +743,12 @@ Code scripts are reusable blocks of code written to automate tasks, solve specif
 <b>Notepad++</b> – Lightweight Windows-based code editor.<br>
 <b>Vim / NeoVim</b> – Terminal-based, highly customizable editors.<br>
 
+<a href="https://notepad-plus-plus.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Notepad++-grey?style=for-the-badge&logo=notepadplusplus&logoColor=white" alt="Notepad++" /></a>
+<a href="https://www.vim.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Vim-grey?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" /></a>
+<a href="https://neovim.io/" target="_blank">
+  <img src="https://img.shields.io/badge/NeoVim-grey?style=for-the-badge&logo=neovim&logoColor=white" alt="NeoVim" /></a>
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://img.shields.io/badge/VS%20Code-grey?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /></a>
 <a href="https://www.jetbrains.com/" target="_blank">
@@ -751,12 +757,7 @@ Code scripts are reusable blocks of code written to automate tasks, solve specif
   <img src="https://img.shields.io/badge/Sublime%20Text-grey?style=for-the-badge&logo=sublimetext&logoColor=white" alt="Sublime Text" /></a>
 <a href="https://github.blog/2022-06-08-sunsetting-atom/" target="_blank">
   <img src="https://img.shields.io/badge/Atom-grey?style=for-the-badge&logo=atom&logoColor=white" alt="Atom" /></a>
-<a href="https://notepad-plus-plus.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Notepad++-grey?style=for-the-badge&logo=notepadplusplus&logoColor=white" alt="Notepad++" /></a>
-<a href="https://www.vim.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Vim-grey?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" /></a>
-<a href="https://neovim.io/" target="_blank">
-  <img src="https://img.shields.io/badge/NeoVim-grey?style=for-the-badge&logo=neovim&logoColor=white" alt="NeoVim" /></a>
+
 
 <div><p><h1></h1></p></div>
 
@@ -770,10 +771,6 @@ Code scripts are reusable blocks of code written to automate tasks, solve specif
 <b>Node.js</b> – Server-side scripting (JavaScript runtime).<br>
 <b>Python</b> – General-purpose scripting with endless libraries.<br>
 
-<a href="https://jupyter.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Jupyter-grey?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" /></a>
-<a href="https://colab.research.google.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Google%20Colab-grey?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" /></a>
 <a href="https://runjs.app/" target="_blank">
   <img src="https://img.shields.io/badge/RunJS-grey?style=for-the-badge&logo=javascript&logoColor=white" alt="RunJS" /></a>
 <a href="https://www.autohotkey.com/" target="_blank">
@@ -786,6 +783,10 @@ Code scripts are reusable blocks of code written to automate tasks, solve specif
   <img src="https://img.shields.io/badge/PowerShell-grey?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" /></a>
 <a href="https://nodejs.org/" target="_blank">
   <img src="https://img.shields.io/badge/Node.js-grey?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
+<a href="https://jupyter.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Jupyter-grey?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" /></a>
+<a href="https://colab.research.google.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Colab-grey?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" /></a>
 <a href="https://www.python.org/" target="_blank">
   <img src="https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
 
@@ -845,16 +846,16 @@ Code scripts are reusable blocks of code written to automate tasks, solve specif
 <b>Ansible / Puppet</b> – Infrastructure-as-code automation.<br>
 <b>PM2</b> – Process manager for running Node.js scripts.<br>
 
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Docker-grey?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
-<a href="https://github.com/features/actions" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-grey?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /></a>
 <a href="https://vercel.com/" target="_blank">
   <img src="https://img.shields.io/badge/Vercel-grey?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
 <a href="https://www.netlify.com/" target="_blank">
   <img src="https://img.shields.io/badge/Netlify-grey?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" /></a>
 <a href="https://www.ansible.com/" target="_blank">
   <img src="https://img.shields.io/badge/Ansible-grey?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" /></a>
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Docker-grey?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
+<a href="https://github.com/features/actions" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-grey?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /></a>
 <a href="https://puppet.com/" target="_blank">
   <img src="https://img.shields.io/badge/Puppet-grey?style=for-the-badge&logo=puppet&logoColor=white" alt="Puppet" /></a>
 <a href="https://pm2.keymetrics.io/" target="_blank">
@@ -940,13 +941,14 @@ Icons and fonts are fundamental elements in modern design that enhance both the 
 <a href="https://iconscout.com" target="_blank">
   <img src="https://img.shields.io/badge/Iconscout-grey?style=for-the-badge&logo=iconscout&logoColor=white" alt="Iconscout" /></a>
 
-<!-- Flaticon -->
-<a href="https://flaticon.com" target="_blank">
-  <img src="https://img.shields.io/badge/Flaticon-grey?style=for-the-badge&logo=flaticon&logoColor=white" alt="Flaticon" /></a>
+<!-- Bootstrap Icons -->
+<a href="https://icons.getbootstrap.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Bootstrap_Icons-grey?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Icons" /></a>
 
-<!-- Icons8 -->
-<a href="https://icons8.com" target="_blank">
-  <img src="https://img.shields.io/badge/Icons8-grey?style=for-the-badge&logo=icons8&logoColor=white" alt="Icons8" /></a>
+<!-- Feather Icons -->
+<a href="https://feathericons.com" target="_blank">
+  <img src="https://img.shields.io/badge/Feather_Icons-grey?style=for-the-badge&logo=feather&logoColor=white" alt="Feather Icons" /></a>
+
 
 <!-- FontAwesome -->
 <a href="https://fontawesome.com" target="_blank">
@@ -956,18 +958,6 @@ Icons and fonts are fundamental elements in modern design that enhance both the 
 <a href="https://heroicons.com" target="_blank">
   <img src="https://img.shields.io/badge/Heroicons-grey?style=for-the-badge&logo=simpleicons&logoColor=white" alt="Heroicons" /></a>
 
-<!-- Material Icons -->
-<a href="https://fonts.google.com/icons" target="_blank">
-  <img src="https://img.shields.io/badge/Material_Icons-grey?style=for-the-badge&logo=materialdesign&logoColor=white" alt="Material Icons" /></a>
-
-<!-- Bootstrap Icons -->
-<a href="https://icons.getbootstrap.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Bootstrap_Icons-grey?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Icons" /></a>
-
-<!-- Feather Icons -->
-<a href="https://feathericons.com" target="_blank">
-  <img src="https://img.shields.io/badge/Feather_Icons-grey?style=for-the-badge&logo=feather&logoColor=white" alt="Feather Icons" /></a>
-
 <!-- Lucide Icons -->
 <a href="https://lucide.dev" target="_blank">
   <img src="https://img.shields.io/badge/Lucide-grey?style=for-the-badge&logo=simpleicons&logoColor=white" alt="Lucide Icons" /></a>
@@ -975,6 +965,22 @@ Icons and fonts are fundamental elements in modern design that enhance both the 
 <!-- SVG Repo -->
 <a href="https://www.svgrepo.com/" target="_blank">
   <img src="https://img.shields.io/badge/SVGRepo-grey?style=for-the-badge&logo=svg&logoColor=white" alt="SVG Repo" /></a>
+
+<!-- Flaticon -->
+<a href="https://flaticon.com" target="_blank">
+  <img src="https://img.shields.io/badge/Flaticon-grey?style=for-the-badge&logo=flaticon&logoColor=white" alt="Flaticon" /></a>
+
+<!-- Icons8 -->
+<a href="https://icons8.com" target="_blank">
+  <img src="https://img.shields.io/badge/Icons8-grey?style=for-the-badge&logo=icons8&logoColor=white" alt="Icons8" /></a>
+
+
+
+<!-- Material Icons -->
+<a href="https://fonts.google.com/icons" target="_blank">
+  <img src="https://img.shields.io/badge/Material_Icons-grey?style=for-the-badge&logo=materialdesign&logoColor=white" alt="Material Icons" /></a>
+
+
 
 <div><p><h1></h1></p></div>
 
@@ -1010,6 +1016,14 @@ Icons and fonts are fundamental elements in modern design that enhance both the 
 <a href="https://fonts.google.com" target="_blank">
   <img src="https://img.shields.io/badge/Google_Fonts-grey?style=for-the-badge&logo=googlefonts&logoColor=white" alt="Google Fonts" /></a>
 
+<!-- Font Squirrel -->
+<a href="https://www.fontsquirrel.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Font_Squirrel-grey?style=for-the-badge&logo=simpleicons&logoColor=white" alt="Font Squirrel" /></a>
+
+<!-- WhatTheFont -->
+<a href="https://www.myfonts.com/WhatTheFont/" target="_blank">
+  <img src="https://img.shields.io/badge/WhatTheFont-grey?style=for-the-badge&logo=whatthefont&logoColor=white" alt="WhatTheFont" /></a>
+
 <!-- Adobe Fonts -->
 <a href="https://fonts.adobe.com/" target="_blank">
   <img src="https://img.shields.io/badge/Adobe_Fonts-grey?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Fonts" /></a>
@@ -1018,13 +1032,7 @@ Icons and fonts are fundamental elements in modern design that enhance both the 
 <a href="https://dafont.com" target="_blank">
   <img src="https://img.shields.io/badge/DaFont-grey?style=for-the-badge&logo=simpleicons&logoColor=white" alt="DaFont" /></a>
 
-<!-- Font Squirrel -->
-<a href="https://www.fontsquirrel.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Font_Squirrel-grey?style=for-the-badge&logo=simpleicons&logoColor=white" alt="Font Squirrel" /></a>
 
-<!-- WhatTheFont -->
-<a href="https://www.myfonts.com/WhatTheFont/" target="_blank">
-  <img src="https://img.shields.io/badge/WhatTheFont-grey?style=for-the-badge&logo=whatthefont&logoColor=white" alt="WhatTheFont" /></a>
 
 <div><p><h1></h1></p></div>
 
@@ -1059,6 +1067,12 @@ Stock and media assets are essential resources in content creation, offering hig
 
 <b>Stock & Media Tools</b><br>
 
+<a href="https://www.adobe.com/products/premiere.html" target="_blank">
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-grey?style=for-the-badge&logo=adobe-premiere&logoColor=white" alt="Adobe Premiere Pro" /></a>
+
+<a href="https://www.apple.com/final-cut-pro/" target="_blank">
+  <img src="https://img.shields.io/badge/Final%20Cut%20Pro-grey?style=for-the-badge&logo=apple&logoColor=white" alt="Final Cut Pro" /></a>
+
 <a href="https://unsplash.com/" target="_blank">
   <img src="https://img.shields.io/badge/Unsplash-grey?style=for-the-badge&logo=unsplash&logoColor=white" alt="Unsplash" /></a>
 
@@ -1068,17 +1082,23 @@ Stock and media assets are essential resources in content creation, offering hig
 <a href="https://pixabay.com/" target="_blank">
   <img src="https://img.shields.io/badge/Pixabay-grey?style=for-the-badge&logo=pixabay&logoColor=white" alt="Pixabay" /></a>
 
+<a href="https://www.gettyimages.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Getty%20Images-grey?style=for-the-badge&logo=gettyimages&logoColor=white" alt="Getty Images" /></a>
+
+<a href="https://elements.envato.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Envato%20Elements-grey?style=for-the-badge&logo=envato&logoColor=white" alt="Envato Elements" /></a>
+
 <a href="https://www.shutterstock.com/" target="_blank">
   <img src="https://img.shields.io/badge/Shutterstock-grey?style=for-the-badge&logo=shutterstock&logoColor=white" alt="Shutterstock" /></a>
 
 <a href="https://stock.adobe.com/" target="_blank">
   <img src="https://img.shields.io/badge/Adobe%20Stock-grey?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Stock" /></a>
 
-<a href="https://www.gettyimages.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Getty%20Images-grey?style=for-the-badge&logo=gettyimages&logoColor=white" alt="Getty Images" /></a>
+<a href="https://www.audacityteam.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Audacity-grey?style=for-the-badge&logo=audacity&logoColor=white" alt="Audacity" /></a>
 
-<a href="https://elements.envato.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Envato%20Elements-grey?style=for-the-badge&logo=envato&logoColor=white" alt="Envato Elements" /></a>
+<a href="https://www.adobe.com/products/audition.html" target="_blank">
+  <img src="https://img.shields.io/badge/Adobe%20Audition-grey?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Audition" /></a>
 
 <a href="https://www.canva.com/" target="_blank">
   <img src="https://img.shields.io/badge/Canva-grey?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" /></a>
@@ -1088,19 +1108,6 @@ Stock and media assets are essential resources in content creation, offering hig
 
 <a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank">
   <img src="https://img.shields.io/badge/DaVinci%20Resolve-grey?style=for-the-badge&logo=blackmagicdesign&logoColor=white" alt="DaVinci Resolve" /></a>
-
-<a href="https://www.adobe.com/products/premiere.html" target="_blank">
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-grey?style=for-the-badge&logo=adobe-premiere&logoColor=white" alt="Adobe Premiere Pro" /></a>
-
-<a href="https://www.apple.com/final-cut-pro/" target="_blank">
-  <img src="https://img.shields.io/badge/Final%20Cut%20Pro-grey?style=for-the-badge&logo=apple&logoColor=white" alt="Final Cut Pro" /></a>
-
-<a href="https://www.audacityteam.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Audacity-grey?style=for-the-badge&logo=audacity&logoColor=white" alt="Audacity" /></a>
-
-<a href="https://www.adobe.com/products/audition.html" target="_blank">
-  <img src="https://img.shields.io/badge/Adobe%20Audition-grey?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Audition" /></a>
-
 
 
 <div><p><h1></h1></p></div>
@@ -1127,14 +1134,6 @@ Graphics and animations are powerful visual tools that bring ideas to life, enha
 <b>Canva</b> – Online design tool for creating social media, posters, and more.<br>
 <b>Figma</b> – UI/UX design tool with collaboration features.<br>
 
-<!-- Adobe Photoshop -->
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-  <img src="https://img.shields.io/badge/Photoshop-grey?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" /></a>
-
-<!-- Adobe Illustrator -->
-<a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-  <img src="https://img.shields.io/badge/Illustrator-grey?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" /></a>
-
 <!-- CorelDRAW -->
 <a href="https://www.coreldraw.com/" target="_blank">
   <img src="https://img.shields.io/badge/CorelDRAW-grey?style=for-the-badge&logo=coreldraw&logoColor=white" alt="CorelDRAW" /></a>
@@ -1155,6 +1154,14 @@ Graphics and animations are powerful visual tools that bring ideas to life, enha
 <a href="https://www.canva.com/" target="_blank">
   <img src="https://img.shields.io/badge/Canva-grey?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" /></a>
 
+<!-- Adobe Photoshop -->
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+  <img src="https://img.shields.io/badge/Photoshop-grey?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" /></a>
+
+<!-- Adobe Illustrator -->
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+  <img src="https://img.shields.io/badge/Illustrator-grey?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" /></a>
+
 <!-- Figma -->
 <a href="https://www.figma.com/" target="_blank">
   <img src="https://img.shields.io/badge/Figma-grey?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
@@ -1171,18 +1178,6 @@ Graphics and animations are powerful visual tools that bring ideas to life, enha
 <b>ZBrush</b> – Digital sculpting tool used for high-detail 3D character design.<br>
 <b>SketchUp</b> – 3D modeling software, popular in architecture and interior design.<br>
 
-<!-- Blender -->
-<a href="https://www.blender.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Blender-grey?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" /></a>
-
-<!-- Autodesk Maya -->
-<a href="https://www.autodesk.com/products/maya/" target="_blank">
-  <img src="https://img.shields.io/badge/Maya-grey?style=for-the-badge&logo=autodesk&logoColor=white" alt="Maya" /></a>
-
-<!-- Autodesk 3ds Max -->
-<a href="https://www.autodesk.com/products/3ds-max/" target="_blank">
-  <img src="https://img.shields.io/badge/3ds%20Max-grey?style=for-the-badge&logo=autodesk&logoColor=white" alt="3ds Max" /></a>
-
 <!-- Cinema 4D -->
 <a href="https://www.maxon.net/en/cinema-4d" target="_blank">
   <img src="https://img.shields.io/badge/Cinema%204D-grey?style=for-the-badge&logo=cinema4d&logoColor=white" alt="Cinema 4D" /></a>
@@ -1194,6 +1189,18 @@ Graphics and animations are powerful visual tools that bring ideas to life, enha
 <!-- SketchUp -->
 <a href="https://www.sketchup.com/" target="_blank">
   <img src="https://img.shields.io/badge/SketchUp-grey?style=for-the-badge&logo=sketchup&logoColor=white" alt="SketchUp" /></a>
+
+<!-- Blender -->
+<a href="https://www.blender.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Blender-grey?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" /></a>
+
+<!-- Autodesk Maya -->
+<a href="https://www.autodesk.com/products/maya/" target="_blank">
+  <img src="https://img.shields.io/badge/Maya-grey?style=for-the-badge&logo=autodesk&logoColor=white" alt="Maya" /></a>
+
+<!-- Autodesk 3ds Max -->
+<a href="https://www.autodesk.com/products/3ds-max/" target="_blank">
+  <img src="https://img.shields.io/badge/3ds%20Max-grey?style=for-the-badge&logo=autodesk&logoColor=white" alt="3ds Max" /></a>
 
 
 <div><p><h1></h1></p></div>
@@ -1310,18 +1317,6 @@ Logo designing is a crucial aspect of branding that involves creating a unique v
 <b>Vectr</b> – Free vector graphics software (browser & desktop).<br>
 <b>BrandCrowd</b> – Logo maker and branding tool.<br>
 
-<!-- Canva -->
-<a href="https://www.canva.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Canva-grey?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" /></a>
-
-<!-- Looka -->
-<a href="https://looka.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Looka-grey?style=for-the-badge&logo=looka&logoColor=white" alt="Looka" /></a>
-
-<!-- Hatchful -->
-<a href="https://hatchful.shopify.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Hatchful-grey?style=for-the-badge&logo=shopify&logoColor=white" alt="Hatchful by Shopify" /></a>
-
 <!-- LogoMakr -->
 <a href="https://logomakr.com/" target="_blank">
   <img src="https://img.shields.io/badge/LogoMakr-grey?style=for-the-badge&logoColor=white" alt="LogoMakr" /></a>
@@ -1333,6 +1328,18 @@ Logo designing is a crucial aspect of branding that involves creating a unique v
 <!-- BrandCrowd -->
 <a href="https://www.brandcrowd.com/" target="_blank">
   <img src="https://img.shields.io/badge/BrandCrowd-grey?style=for-the-badge&logoColor=white" alt="BrandCrowd" /></a>
+
+<!-- Canva -->
+<a href="https://www.canva.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Canva-grey?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" /></a>
+
+<!-- Looka -->
+<a href="https://looka.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Looka-grey?style=for-the-badge&logo=looka&logoColor=white" alt="Looka" /></a>
+
+<!-- Hatchful -->
+<a href="https://hatchful.shopify.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Hatchful-grey?style=for-the-badge&logo=shopify&logoColor=white" alt="Hatchful by Shopify" /></a>
 
 
 <div><p><h1></h1></p></div>
@@ -1536,14 +1543,6 @@ Drawing and arts are timeless forms of creative expression that allow individual
 <b>Rebelle</b> – Realistic watercolor and acrylic painting simulations.<br>
 <b>ArtRage</b> – Natural painting tools and textures for digital art.<br>
 
-<!-- Adobe Photoshop -->
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-grey?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" /></a>
-
-<!-- Corel Painter -->
-<a href="https://www.painterartist.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Corel_Painter-grey?style=for-the-badge&logo=corel&logoColor=white" alt="Corel Painter" /></a>
-
 <!-- Clip Studio Paint -->
 <a href="https://www.clipstudio.net/" target="_blank">
   <img src="https://img.shields.io/badge/Clip_Studio_Paint-grey?style=for-the-badge&logo=clipstudio&logoColor=white" alt="Clip Studio Paint" /></a>
@@ -1551,6 +1550,14 @@ Drawing and arts are timeless forms of creative expression that allow individual
 <!-- Paint Tool SAI -->
 <a href="https://www.systemax.jp/en/sai/" target="_blank">
   <img src="https://img.shields.io/badge/Paint_Tool_SAI-grey?style=for-the-badge&logoColor=white" alt="Paint Tool SAI" /></a>
+
+<!-- Adobe Photoshop -->
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-grey?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" /></a>
+
+<!-- Corel Painter -->
+<a href="https://www.painterartist.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Corel_Painter-grey?style=for-the-badge&logo=corel&logoColor=white" alt="Corel Painter" /></a>
 
 <!-- Rebelle -->
 <a href="https://www.escapemotions.com/products/rebelle/index.php" target="_blank">
@@ -1632,6 +1639,14 @@ Drawing and arts are timeless forms of creative expression that allow individual
 <b>PaintsChainer</b> – AI automatic coloring tool for line art.<br>
 <b>DeepArt.io</b> – Transform images into artistic styles with AI.<br>
 
+<!-- PaintsChainer -->
+<a href="https://paintschainer.preferred.tech/index_en.html" target="_blank">
+  <img src="https://img.shields.io/badge/PaintsChainer-grey?style=for-the-badge&logoColor=white" alt="PaintsChainer" /></a>
+
+<!-- DeepArt.io -->
+<a href="https://deepart.io/" target="_blank">
+  <img src="https://img.shields.io/badge/DeepArt.io-grey?style=for-the-badge&logoColor=white" alt="DeepArt.io" /></a>
+
 <!-- Adobe Firefly -->
 <a href="https://firefly.adobe.com/" target="_blank">
   <img src="https://img.shields.io/badge/Adobe_Firefly-grey?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Firefly" /></a>
@@ -1640,13 +1655,6 @@ Drawing and arts are timeless forms of creative expression that allow individual
 <a href="https://www.autodraw.com/" target="_blank">
   <img src="https://img.shields.io/badge/Autodraw-grey?style=for-the-badge&logoColor=white" alt="Autodraw" /></a>
 
-<!-- PaintsChainer -->
-<a href="https://paintschainer.preferred.tech/index_en.html" target="_blank">
-  <img src="https://img.shields.io/badge/PaintsChainer-grey?style=for-the-badge&logoColor=white" alt="PaintsChainer" /></a>
-
-<!-- DeepArt.io -->
-<a href="https://deepart.io/" target="_blank">
-  <img src="https://img.shields.io/badge/DeepArt.io-grey?style=for-the-badge&logoColor=white" alt="DeepArt.io" /></a>
 
 <div><p><h1></h1></p></div>
 
@@ -1676,10 +1684,6 @@ Book cover and magazine designing are essential aspects of visual storytelling a
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-grey?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" /></a>
 
-<!-- Affinity Publisher -->
-<a href="https://affinity.serif.com/en-us/publisher/" target="_blank">
-  <img src="https://img.shields.io/badge/Affinity%20Publisher-grey?style=for-the-badge&logo=affinitypublisher&logoColor=white" alt="Affinity Publisher" /></a>
-
 <!-- QuarkXPress -->
 <a href="https://www.quark.com/products/quarkxpress" target="_blank">
   <img src="https://img.shields.io/badge/QuarkXPress-grey?style=for-the-badge&logo=quarkus&logoColor=white" alt="QuarkXPress" /></a>
@@ -1687,6 +1691,11 @@ Book cover and magazine designing are essential aspects of visual storytelling a
 <!-- Scribus -->
 <a href="https://www.scribus.net/" target="_blank">
   <img src="https://img.shields.io/badge/Scribus-grey?style=for-the-badge&logo=scribus&logoColor=white" alt="Scribus" /></a>
+
+<!-- Affinity Publisher -->
+<a href="https://affinity.serif.com/en-us/publisher/" target="_blank">
+  <img src="https://img.shields.io/badge/Affinity%20Publisher-grey?style=for-the-badge&logo=affinitypublisher&logoColor=white" alt="Affinity Publisher" /></a>
+
 
 
 <div><p><h1></h1></p></div>
