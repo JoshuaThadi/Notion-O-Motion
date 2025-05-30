@@ -1031,7 +1031,7 @@ Stock and media assets are essential resources in content creation, offering hig
 
 <div><p><h1></h1></p></div>
 
-<b>🖼️ Stock & Media Tools</b><br>
+<b>Stock & Media Tools</b><br>
 
 <b>Unsplash</b> – Free high-resolution photos for personal and commercial use.<br>
 <b>Pexels</b> – Free stock photos and videos with a vast library.<br>
@@ -1048,7 +1048,7 @@ Stock and media assets are essential resources in content creation, offering hig
 <b>Audacity</b> – Free, open-source audio recording and editing software.<br>
 <b>Adobe Audition</b> – Professional audio editing and mixing tool.<br>
 
-<b>🖼️ Stock & Media Tools</b><br>
+<b>Stock & Media Tools</b><br>
 
 <a href="https://unsplash.com/" target="_blank">
   <img src="https://img.shields.io/badge/Unsplash-grey?style=for-the-badge&logo=unsplash&logoColor=white" alt="Unsplash" /></a>
@@ -1253,6 +1253,12 @@ Graphics and animations are powerful visual tools that bring ideas to life, enha
 
 <img width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/fd97bf40684929.5788bcf8a3512.png">
 <img width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/4f804940684929.57a1004a11d9e.jpg">
+
+---
+
+
+
+
 
 
 
