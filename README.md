@@ -730,7 +730,11 @@ Tutorials and courses are essential tools for structured learning, skill develop
 
 <h3>✶ Code and Scripts</h3>
 
-Code scripts are reusable blocks of code written to automate tasks, solve specific problems, or implement functionality within software projects. They serve as the backbone of programming workflows—enabling developers to build, test, and deploy features efficiently across various platforms and environments.
+Code scripts are reusable blocks of code written to automate tasks, solve specific problems, or implement functionality within software projects. They serve as the backbone of programming workflows—enabling developers to build, test, and deploy features efficiently across various platforms and environments.<br>
+
+<a href="https://replit.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Replit-grey?style=for-the-badge&logo=replit&logoColor=white" alt="Replit" /></a>
+
 
 <div><p><h1></h1></p></div>
 
@@ -1041,7 +1045,17 @@ Icons and fonts are fundamental elements in modern design that enhance both the 
 
 <h3>✸ Stock and Media </h3>
 
-Stock and media assets are essential resources in content creation, offering high-quality visuals and multimedia elements that enhance storytelling, design, and communication. These assets include stock photos, videos, audio clips, illustrations, and animations—professionally produced and ready for use in various creative projects.
+Stock and media assets are essential resources in content creation, offering high-quality visuals and multimedia elements that enhance storytelling, design, and communication. These assets include stock photos, videos, audio clips, illustrations, and animations—professionally produced and ready for use in various creative projects.<br>
+
+<a href="https://mixkit.co/" target="_blank">
+  <img src="https://img.shields.io/badge/Mixkit-grey?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Mixkit" /></a>
+
+<a href="https://www.remove.bg/" target="_blank">
+  <img src="https://img.shields.io/badge/Remove.bg-grey?style=for-the-badge&logo=removebg&logoColor=white" alt="Remove.bg" /></a>
+
+<a href="https://www.canva.com/pro/" target="_blank">
+  <img src="https://img.shields.io/badge/Canva%20Pro-grey?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Pro" /></a>
+
 
 <div><p><h1></h1></p></div>
 
@@ -1116,7 +1130,11 @@ Stock and media assets are essential resources in content creation, offering hig
 
 <h3>✹ Graphics and Animations</h3>
 
-Graphics and animations are powerful visual tools that bring ideas to life, enhance user engagement, and communicate complex messages with clarity and creativity. They play a vital role across digital platforms—from websites and apps to marketing campaigns, educational content, and entertainment.
+Graphics and animations are powerful visual tools that bring ideas to life, enhance user engagement, and communicate complex messages with clarity and creativity. They play a vital role across digital platforms—from websites and apps to marketing campaigns, educational content, and entertainment.<br>
+
+<a href="https://lottiefiles.com/" target="_blank">
+  <img src="https://img.shields.io/badge/LottieFiles-grey?style=for-the-badge&logo=lottie&logoColor=white" alt="LottieFiles" /></a>
+
 
 <div><p><h1></h1></p></div>
 
@@ -1271,7 +1289,14 @@ Graphics and animations are powerful visual tools that bring ideas to life, enha
 
 <h3>❋ Logo Designing</h3><br>
 
-Logo designing is a crucial aspect of branding that involves creating a unique visual symbol to represent a company, product, or service. A logo is often the first impression of a brand, serving as its identity across all platforms—whether digital or print.
+Logo designing is a crucial aspect of branding that involves creating a unique visual symbol to represent a company, product, or service. A logo is often the first impression of a brand, serving as its identity across all platforms—whether digital or print.<br>
+
+<a href="https://www.wix.com/logo/maker" target="_blank">
+  <img src="https://img.shields.io/badge/Wix%20Logo%20Maker-grey?style=for-the-badge&logo=wix&logoColor=white" alt="Wix Logo Maker" /></a>
+
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Figma-grey?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
+
 
 <div><p><h1></h1></p></div>
 
@@ -1380,7 +1405,14 @@ Logo designing is a crucial aspect of branding that involves creating a unique v
 
 <h3>❂ Illustrations</h3>
 
-Illustrations are expressive visual elements that transform ideas, stories, and concepts into engaging, imaginative imagery. They play a vital role in enhancing communication by adding clarity, emotion, and personality to content across various mediums—such as websites, books, apps, marketing materials, and educational tools.
+Illustrations are expressive visual elements that transform ideas, stories, and concepts into engaging, imaginative imagery. They play a vital role in enhancing communication by adding clarity, emotion, and personality to content across various mediums—such as websites, books, apps, marketing materials, and educational tools.<br>
+
+<a href="https://www.blender.org/features/story-artist/" target="_blank">
+  <img src="https://img.shields.io/badge/Blender%20Story%20Artist-grey?style=for-the-badge&logo=blender&logoColor=white" alt="Blender Story Artist" /></a>
+
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Figma-grey?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
+
 
 <div><p><h1></h1></p></div>
 
@@ -1527,7 +1559,14 @@ Illustrations are expressive visual elements that transform ideas, stories, and 
 
 <h3>❃ Drawing and Arts</h3>
 
-Drawing and arts are timeless forms of creative expression that allow individuals to communicate emotions, ideas, and perspectives beyond words. Rooted in imagination and observation, these disciplines span a wide range of styles and mediums—from pencil sketches and ink illustrations to painting, digital art, and mixed media.
+Drawing and arts are timeless forms of creative expression that allow individuals to communicate emotions, ideas, and perspectives beyond words. Rooted in imagination and observation, these disciplines span a wide range of styles and mediums—from pencil sketches and ink illustrations to painting, digital art, and mixed media.<br>
+
+<a href="https://www.sketchbook.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Sketchbook-grey?style=for-the-badge&logo=autodesk&logoColor=white" alt="Sketchbook" /></a>
+
+<a href="https://procreate.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Procreate-grey?style=for-the-badge&logo=procreate&logoColor=white" alt="Procreate" /></a>
+
 
 <div><p><h1></h1></p></div>
 
@@ -1662,11 +1701,18 @@ Drawing and arts are timeless forms of creative expression that allow individual
 
 <h3>★ Book Cover and Magazine Designing</h3>
 
-Book cover and magazine designing are essential aspects of visual storytelling and publishing that combine creativity, branding, and communication to captivate readers and convey the essence of the content inside.
+Book cover and magazine designing are essential aspects of visual storytelling and publishing that combine creativity, branding, and communication to captivate readers and convey the essence of the content inside.<br>
+
+<a href="https://www.marq.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Marq-grey?style=for-the-badge&logo=marq&logoColor=white" alt="Marq" /></a>
+
+<a href="https://www.marq.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Marq-grey?style=for-the-badge&logoColor=white" alt="Marq" /></a>
+
 
 <div><p><h1></h1></p></div>
 
-<b>🖥️ Professional Desktop Software</b><br>
+<b>Professional Desktop Software</b><br>
 <b>Adobe InDesign</b> – Industry-standard for layout and print design (books, magazines).<br>
 <b>Adobe Photoshop</b> – Great for high-end visual design and book cover artwork.<br>
 <b>Affinity Publisher</b> – Affordable alternative to InDesign for layout and print.<br>
@@ -1697,7 +1743,7 @@ Book cover and magazine designing are essential aspects of visual storytelling a
 
 <div><p><h1></h1></p></div>
 
-<b>🌐 Online Tools</b><br>
+<b>Online Tools</b><br>
 <b>Canva</b> – Drag-and-drop design with templates for book covers and magazines.<br>
 <b>Visme</b> – Online design tool for print and digital magazines.<br>
 <b>Adobe Express</b> – Lightweight design tool for book covers with templates.<br>
@@ -1727,7 +1773,7 @@ Book cover and magazine designing are essential aspects of visual storytelling a
 
 <div><p><h1></h1></p></div>
 
-<b>📚 Book & Magazine Cover Templates</b><br>
+<b>Book & Magazine Cover Templates</b><br>
 <b>Envato Elements</b> – High-quality book and magazine templates (subscription-based).<br>
 <b>Creative Market</b> – Pay-per-template marketplace for design assets.<br>
 <b>Template.net</b> – Free and premium magazine/book cover templates.<br>
