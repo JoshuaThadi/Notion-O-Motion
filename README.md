@@ -1519,32 +1519,236 @@ Illustrations are expressive visual elements that transform ideas, stories, and 
 <img width="100%" src="https://cdn.dribbble.com/userupload/17998433/file/original-5d93e5edd1e59c0792958d1e4738066e.jpg?resize=1504x1128&vertical=center">
 
 
+---
+
+<h3>❃ Drawing and Arts</h3>
+
+Drawing and arts are timeless forms of creative expression that allow individuals to communicate emotions, ideas, and perspectives beyond words. Rooted in imagination and observation, these disciplines span a wide range of styles and mediums—from pencil sketches and ink illustrations to painting, digital art, and mixed media.
+
+<div><p><h1></h1></p></div>
+
+<b>Professional Desktop Software</b><br>
+
+<b>Adobe Photoshop</b> – Industry-standard for digital painting, photo editing, and illustration.<br>
+<b>Corel Painter</b> – Advanced natural media painting software.<br>
+<b>Clip Studio Paint</b> – Popular with manga, comics, and concept artists.<br>
+<b>Paint Tool SAI</b> – Lightweight and smooth drawing experience (Windows).<br>
+<b>Rebelle</b> – Realistic watercolor and acrylic painting simulations.<br>
+<b>ArtRage</b> – Natural painting tools and textures for digital art.<br>
+
+<!-- Adobe Photoshop -->
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-grey?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" /></a>
+
+<!-- Corel Painter -->
+<a href="https://www.painterartist.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Corel_Painter-grey?style=for-the-badge&logo=corel&logoColor=white" alt="Corel Painter" /></a>
+
+<!-- Clip Studio Paint -->
+<a href="https://www.clipstudio.net/" target="_blank">
+  <img src="https://img.shields.io/badge/Clip_Studio_Paint-grey?style=for-the-badge&logo=clipstudio&logoColor=white" alt="Clip Studio Paint" /></a>
+
+<!-- Paint Tool SAI -->
+<a href="https://www.systemax.jp/en/sai/" target="_blank">
+  <img src="https://img.shields.io/badge/Paint_Tool_SAI-grey?style=for-the-badge&logoColor=white" alt="Paint Tool SAI" /></a>
+
+<!-- Rebelle -->
+<a href="https://www.escapemotions.com/products/rebelle/index.php" target="_blank">
+  <img src="https://img.shields.io/badge/Rebelle-grey?style=for-the-badge&logoColor=white" alt="Rebelle" /></a>
+
+<!-- ArtRage -->
+<a href="https://www.artrage.com/" target="_blank">
+  <img src="https://img.shields.io/badge/ArtRage-grey?style=for-the-badge&logoColor=white" alt="ArtRage" /></a>
 
 
+<div><p><h1></h1></p></div>
+
+<b>Free & Open-Source Tools</b><br>
+
+<b>Krita</b> – Powerful open-source painting tool for digital artists.<br>
+<b>GIMP</b> – Free image editor also used for basic drawing and design.<br>
+<b>MyPaint</b> – Minimalist interface focused on expressive sketching.<br>
+<b>FireAlpaca</b> – Lightweight drawing software, good for beginners.<br>
+<b>MediBang Paint</b> – Free comic creation tool with cloud support.<br>
+
+<!-- Krita -->
+<a href="https://krita.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Krita-grey?style=for-the-badge&logo=krita&logoColor=white" alt="Krita" /></a>
+
+<!-- GIMP -->
+<a href="https://www.gimp.org/" target="_blank">
+  <img src="https://img.shields.io/badge/GIMP-grey?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP" /></a>
+
+<!-- MyPaint -->
+<a href="http://mypaint.org/" target="_blank">
+  <img src="https://img.shields.io/badge/MyPaint-grey?style=for-the-badge&logoColor=white" alt="MyPaint" /></a>
+
+<!-- FireAlpaca -->
+<a href="https://firealpaca.com/" target="_blank">
+  <img src="https://img.shields.io/badge/FireAlpaca-grey?style=for-the-badge&logoColor=white" alt="FireAlpaca" /></a>
+
+<!-- MediBang Paint -->
+<a href="https://medibangpaint.com/" target="_blank">
+  <img src="https://img.shields.io/badge/MediBang_Paint-grey?style=for-the-badge&logoColor=white" alt="MediBang Paint" /></a>
 
 
+<div><p><h1></h1></p></div>
+
+<b>Browser-Based Drawing Tools</b><br>
+
+<b>Sketchpad</b> – Simple online drawing tool with layers and brushes.<br>
+<b>Aggie.io</b> – Real-time collaborative drawing in the browser.<br>
+<b>Pixlr</b> – Online editor and painting app (photo-editing + drawing).<br>
+<b>Sumopaint</b> – Feature-rich browser painting app (free & pro).<br>
+<b>Magma Studio</b> – Professional online collaborative drawing tool.<br>
+
+<!-- Sketchpad -->
+<a href="https://sketch.io/sketchpad/en/" target="_blank">
+  <img src="https://img.shields.io/badge/Sketchpad-grey?style=for-the-badge&logoColor=white" alt="Sketchpad" /></a>
+
+<!-- Aggie.io -->
+<a href="https://aggie.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Aggie.io-grey?style=for-the-badge&logoColor=white" alt="Aggie.io" /></a>
+
+<!-- Pixlr -->
+<a href="https://pixlr.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Pixlr-grey?style=for-the-badge&logo=pixlr&logoColor=white" alt="Pixlr" /></a>
+
+<!-- Sumopaint -->
+<a href="https://sumo.app/paint" target="_blank">
+  <img src="https://img.shields.io/badge/Sumopaint-grey?style=for-the-badge&logoColor=white" alt="Sumopaint" /></a>
+
+<!-- Magma Studio -->
+<a href="https://magmastudio.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Magma_Studio-grey?style=for-the-badge&logoColor=white" alt="Magma Studio" /></a>
 
 
+<div><p><h1></h1></p></div>
+
+<b>AI-Assisted Drawing Tools</b><br>
+
+<b>Adobe Firefly</b> – AI-powered generative art and stylization (beta).<br>
+<b>Autodraw by Google</b> – AI that helps turn sketches into icons.<br>
+<b>PaintsChainer</b> – AI automatic coloring tool for line art.<br>
+<b>DeepArt.io</b> – Transform images into artistic styles with AI.<br>
+
+<!-- Adobe Firefly -->
+<a href="https://firefly.adobe.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Adobe_Firefly-grey?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Firefly" /></a>
+
+<!-- Autodraw -->
+<a href="https://www.autodraw.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Autodraw-grey?style=for-the-badge&logoColor=white" alt="Autodraw" /></a>
+
+<!-- PaintsChainer -->
+<a href="https://paintschainer.preferred.tech/index_en.html" target="_blank">
+  <img src="https://img.shields.io/badge/PaintsChainer-grey?style=for-the-badge&logoColor=white" alt="PaintsChainer" /></a>
+
+<!-- DeepArt.io -->
+<a href="https://deepart.io/" target="_blank">
+  <img src="https://img.shields.io/badge/DeepArt.io-grey?style=for-the-badge&logoColor=white" alt="DeepArt.io" /></a>
+
+<div><p><h1></h1></p></div>
+
+<img width="100%" src="https://images.unsplash.com/photo-1577083553085-d63cdcdf2fc8?q=80&w=1596&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+<img width="100%" src="https://cdn.wallpapersafari.com/17/61/0ecUaq.jpg">
+
+---
+
+<h1>★ Book Cover and Magazine Designing</h1>
+
+Book cover and magazine designing are essential aspects of visual storytelling and publishing that combine creativity, branding, and communication to captivate readers and convey the essence of the content inside.
+
+<div><p><h1></h1></p></div>
+
+<b>🖥️ Professional Desktop Software</b><br>
+<b>Adobe InDesign</b> – Industry-standard for layout and print design (books, magazines).<br>
+<b>Adobe Photoshop</b> – Great for high-end visual design and book cover artwork.<br>
+<b>Affinity Publisher</b> – Affordable alternative to InDesign for layout and print.<br>
+<b>QuarkXPress</b> – Long-standing desktop publishing software for professionals.<br>
+<b>Scribus</b> – Open-source desktop publishing tool with professional features.<br>
+
+<!-- Adobe InDesign -->
+<a href="https://www.adobe.com/products/indesign.html" target="_blank">
+  <img src="https://img.shields.io/badge/Adobe%20InDesign-grey?style=for-the-badge&logo=adobeindesign&logoColor=white" alt="Adobe InDesign" /></a>
+
+<!-- Adobe Photoshop -->
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-grey?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" /></a>
+
+<!-- Affinity Publisher -->
+<a href="https://affinity.serif.com/en-us/publisher/" target="_blank">
+  <img src="https://img.shields.io/badge/Affinity%20Publisher-grey?style=for-the-badge&logo=affinitypublisher&logoColor=white" alt="Affinity Publisher" /></a>
+
+<!-- QuarkXPress -->
+<a href="https://www.quark.com/products/quarkxpress" target="_blank">
+  <img src="https://img.shields.io/badge/QuarkXPress-grey?style=for-the-badge&logo=quarkus&logoColor=white" alt="QuarkXPress" /></a>
+
+<!-- Scribus -->
+<a href="https://www.scribus.net/" target="_blank">
+  <img src="https://img.shields.io/badge/Scribus-grey?style=for-the-badge&logo=scribus&logoColor=white" alt="Scribus" /></a>
 
 
+<div><p><h1></h1></p></div>
+
+<b>🌐 Online Tools</b><br>
+<b>Canva</b> – Drag-and-drop design with templates for book covers and magazines.<br>
+<b>Visme</b> – Online design tool for print and digital magazines.<br>
+<b>Adobe Express</b> – Lightweight design tool for book covers with templates.<br>
+<b>BookBrush</b> – Specialized tool for creating book covers and 3D mockups.<br>
+<b>PosterMyWall</b> – Easy-to-use online editor for flyers, covers, and magazines.<br>
+
+<!-- Canva -->
+<a href="https://www.canva.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Canva-grey?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" /></a>
+
+<!-- Visme -->
+<a href="https://www.visme.co/" target="_blank">
+  <img src="https://img.shields.io/badge/Visme-grey?style=for-the-badge&logo=visme&logoColor=white" alt="Visme" /></a>
+
+<!-- Adobe Express -->
+<a href="https://www.adobe.com/express/" target="_blank">
+  <img src="https://img.shields.io/badge/Adobe%20Express-grey?style=for-the-badge&logo=adobeexpress&logoColor=white" alt="Adobe Express" /></a>
+
+<!-- BookBrush -->
+<a href="https://bookbrush.com/" target="_blank">
+  <img src="https://img.shields.io/badge/BookBrush-grey?style=for-the-badge&logo=bookstack&logoColor=white" alt="BookBrush" /></a>
+
+<!-- PosterMyWall -->
+<a href="https://www.postermywall.com/" target="_blank">
+  <img src="https://img.shields.io/badge/PosterMyWall-grey?style=for-the-badge&logoColor=white" alt="PosterMyWall" /></a>
 
 
+<div><p><h1></h1></p></div>
 
+<b>📚 Book & Magazine Cover Templates</b><br>
+<b>Envato Elements</b> – High-quality book and magazine templates (subscription-based).<br>
+<b>Creative Market</b> – Pay-per-template marketplace for design assets.<br>
+<b>Template.net</b> – Free and premium magazine/book cover templates.<br>
+<b>Canva Templates</b> – Built-in templates for books, covers, and editorial layouts.<br>
 
+<!-- Envato Elements -->
+<a href="https://elements.envato.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Envato%20Elements-grey?style=for-the-badge&logo=envato&logoColor=white" alt="Envato Elements" /></a>
 
+<!-- Creative Market -->
+<a href="https://creativemarket.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Creative%20Market-grey?style=for-the-badge&logo=creativemarket&logoColor=white" alt="Creative Market" /></a>
 
+<!-- Template.net -->
+<a href="https://www.template.net/" target="_blank">
+  <img src="https://img.shields.io/badge/Template.net-grey?style=for-the-badge&logoColor=white" alt="Template.net" /></a>
 
+<!-- Canva Templates -->
+<a href="https://www.canva.com/templates/" target="_blank">
+  <img src="https://img.shields.io/badge/Canva%20Templates-grey?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Templates" /></a>
 
+<div><p><h1></h1></p></div>
 
-
-
-
-
-
-
-
-
-
+<div align="center">
+  <img src="https://cdn.dribbble.com/userupload/11536233/file/original-8f6c7b792a0d681d748ee3de726af884.png?resize=1504x1128&vertical=center" width="63%" />
+  <img src="https://cdn.dribbble.com/userupload/27043313/file/original-e6c02a1ced77568387d3446c7db77479.jpg?resize=1504x2226&vertical=center" width="32%" />
+</div>
 
 ---
 
