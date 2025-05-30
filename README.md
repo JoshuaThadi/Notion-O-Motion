@@ -1509,6 +1509,146 @@ Illustrations are expressive visual elements that transform ideas, stories, and 
 <img width="100%" src="https://cdn.dribbble.com/userupload/15675760/file/original-2000f4440222d29ee276889b30b5a277.png?resize=1504x1128&vertical=center">
 <img width="100%" src="https://cdn.dribbble.com/userupload/17998433/file/original-5d93e5edd1e59c0792958d1e4738066e.jpg?resize=1504x1128&vertical=center">
 
+---
+
+<h3>❃ Drawing and Arts</h3>
+
+Drawing and arts are timeless forms of creative expression that allow individuals to communicate emotions, ideas, and perspectives beyond words. Rooted in imagination and observation, these disciplines span a wide range of styles and mediums—from pencil sketches and ink illustrations to painting, digital art, and mixed media.
+
+<div><p><h1></h1></p></div>
+
+<b>Professional Desktop Software</b><br>
+
+<b>Adobe Photoshop</b> – Industry-standard for digital painting, photo editing, and illustration.<br>
+<b>Corel Painter</b> – Advanced natural media painting software.<br>
+<b>Clip Studio Paint</b> – Popular with manga, comics, and concept artists.<br>
+<b>Paint Tool SAI</b> – Lightweight and smooth drawing experience (Windows).<br>
+<b>Rebelle</b> – Realistic watercolor and acrylic painting simulations.<br>
+<b>ArtRage</b> – Natural painting tools and textures for digital art.<br>
+
+<!-- Adobe Photoshop -->
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-grey?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" /></a>
+
+<!-- Corel Painter -->
+<a href="https://www.painterartist.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Corel_Painter-grey?style=for-the-badge&logo=corel&logoColor=white" alt="Corel Painter" /></a>
+
+<!-- Clip Studio Paint -->
+<a href="https://www.clipstudio.net/" target="_blank">
+  <img src="https://img.shields.io/badge/Clip_Studio_Paint-grey?style=for-the-badge&logo=clipstudio&logoColor=white" alt="Clip Studio Paint" /></a>
+
+<!-- Paint Tool SAI -->
+<a href="https://www.systemax.jp/en/sai/" target="_blank">
+  <img src="https://img.shields.io/badge/Paint_Tool_SAI-grey?style=for-the-badge&logoColor=white" alt="Paint Tool SAI" /></a>
+
+<!-- Rebelle -->
+<a href="https://www.escapemotions.com/products/rebelle/index.php" target="_blank">
+  <img src="https://img.shields.io/badge/Rebelle-grey?style=for-the-badge&logoColor=white" alt="Rebelle" /></a>
+
+<!-- ArtRage -->
+<a href="https://www.artrage.com/" target="_blank">
+  <img src="https://img.shields.io/badge/ArtRage-grey?style=for-the-badge&logoColor=white" alt="ArtRage" /></a>
+
+
+<div><p><h1></h1></p></div>
+
+<b>Free & Open-Source Tools</b><br>
+
+<b>Krita</b> – Powerful open-source painting tool for digital artists.<br>
+<b>GIMP</b> – Free image editor also used for basic drawing and design.<br>
+<b>MyPaint</b> – Minimalist interface focused on expressive sketching.<br>
+<b>FireAlpaca</b> – Lightweight drawing software, good for beginners.<br>
+<b>MediBang Paint</b> – Free comic creation tool with cloud support.<br>
+
+<!-- Krita -->
+<a href="https://krita.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Krita-grey?style=for-the-badge&logo=krita&logoColor=white" alt="Krita" /></a>
+
+<!-- GIMP -->
+<a href="https://www.gimp.org/" target="_blank">
+  <img src="https://img.shields.io/badge/GIMP-grey?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP" /></a>
+
+<!-- MyPaint -->
+<a href="http://mypaint.org/" target="_blank">
+  <img src="https://img.shields.io/badge/MyPaint-grey?style=for-the-badge&logoColor=white" alt="MyPaint" /></a>
+
+<!-- FireAlpaca -->
+<a href="https://firealpaca.com/" target="_blank">
+  <img src="https://img.shields.io/badge/FireAlpaca-grey?style=for-the-badge&logoColor=white" alt="FireAlpaca" /></a>
+
+<!-- MediBang Paint -->
+<a href="https://medibangpaint.com/" target="_blank">
+  <img src="https://img.shields.io/badge/MediBang_Paint-grey?style=for-the-badge&logoColor=white" alt="MediBang Paint" /></a>
+
+
+<div><p><h1></h1></p></div>
+
+<b>Browser-Based Drawing Tools</b><br>
+
+<b>Sketchpad</b> – Simple online drawing tool with layers and brushes.<br>
+<b>Aggie.io</b> – Real-time collaborative drawing in the browser.<br>
+<b>Pixlr</b> – Online editor and painting app (photo-editing + drawing).<br>
+<b>Sumopaint</b> – Feature-rich browser painting app (free & pro).<br>
+<b>Magma Studio</b> – Professional online collaborative drawing tool.<br>
+
+<!-- Sketchpad -->
+<a href="https://sketch.io/sketchpad/en/" target="_blank">
+  <img src="https://img.shields.io/badge/Sketchpad-grey?style=for-the-badge&logoColor=white" alt="Sketchpad" /></a>
+
+<!-- Aggie.io -->
+<a href="https://aggie.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Aggie.io-grey?style=for-the-badge&logoColor=white" alt="Aggie.io" /></a>
+
+<!-- Pixlr -->
+<a href="https://pixlr.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Pixlr-grey?style=for-the-badge&logo=pixlr&logoColor=white" alt="Pixlr" /></a>
+
+<!-- Sumopaint -->
+<a href="https://sumo.app/paint" target="_blank">
+  <img src="https://img.shields.io/badge/Sumopaint-grey?style=for-the-badge&logoColor=white" alt="Sumopaint" /></a>
+
+<!-- Magma Studio -->
+<a href="https://magmastudio.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Magma_Studio-grey?style=for-the-badge&logoColor=white" alt="Magma Studio" /></a>
+
+
+<div><p><h1></h1></p></div>
+
+<b>AI-Assisted Drawing Tools</b><br>
+
+<b>Adobe Firefly</b> – AI-powered generative art and stylization (beta).<br>
+<b>Autodraw by Google</b> – AI that helps turn sketches into icons.<br>
+<b>PaintsChainer</b> – AI automatic coloring tool for line art.<br>
+<b>DeepArt.io</b> – Transform images into artistic styles with AI.<br>
+
+<!-- Adobe Firefly -->
+<a href="https://firefly.adobe.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Adobe_Firefly-grey?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Firefly" /></a>
+
+<!-- Autodraw -->
+<a href="https://www.autodraw.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Autodraw-grey?style=for-the-badge&logoColor=white" alt="Autodraw" /></a>
+
+<!-- PaintsChainer -->
+<a href="https://paintschainer.preferred.tech/index_en.html" target="_blank">
+  <img src="https://img.shields.io/badge/PaintsChainer-grey?style=for-the-badge&logoColor=white" alt="PaintsChainer" /></a>
+
+<!-- DeepArt.io -->
+<a href="https://deepart.io/" target="_blank">
+  <img src="https://img.shields.io/badge/DeepArt.io-grey?style=for-the-badge&logoColor=white" alt="DeepArt.io" /></a>
+
+
+<div><p><h1></h1></p></div>
+
+<img width="100%" src="https://images.unsplash.com/photo-1577083553085-d63cdcdf2fc8?q=80&w=1596&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+<img width="100%" src="https://cdn.wallpapersafari.com/17/61/0ecUaq.jpg">
+
+---
+
+
+
+
 
 
 
