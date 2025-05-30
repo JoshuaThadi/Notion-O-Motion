@@ -719,29 +719,182 @@ Tutorials and courses are essential tools for structured learning, skill develop
 
 ---
 
+<h3>✶ Code and Scripts</h3>
+
+Code scripts are reusable blocks of code written to automate tasks, solve specific problems, or implement functionality within software projects. They serve as the backbone of programming workflows—enabling developers to build, test, and deploy features efficiently across various platforms and environments.
+
+<div><p><h1></h1></p></div>
+
+<b>Code Editors & IDEs</b><br>
+
+<b>Visual Studio Code (VS Code)</b> – Lightweight, extensible, supports all major languages.<br>
+<b>JetBrains IDEs</b> – PyCharm, WebStorm, IntelliJ IDEA, etc., for advanced coding.<br>
+<b>Sublime Text</b> – Fast, minimal text editor with powerful features.<br>
+<b>Atom (archived but still used)</b> – Hackable editor by GitHub.<br>
+<b>Notepad++</b> – Lightweight Windows-based code editor.<br>
+<b>Vim / NeoVim</b> – Terminal-based, highly customizable editors.<br>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://img.shields.io/badge/VS%20Code-grey?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /></a>
+<a href="https://www.jetbrains.com/" target="_blank">
+  <img src="https://img.shields.io/badge/JetBrains-grey?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains IDEs" /></a>
+<a href="https://www.sublimetext.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Sublime%20Text-grey?style=for-the-badge&logo=sublimetext&logoColor=white" alt="Sublime Text" /></a>
+<a href="https://github.blog/2022-06-08-sunsetting-atom/" target="_blank">
+  <img src="https://img.shields.io/badge/Atom-grey?style=for-the-badge&logo=atom&logoColor=white" alt="Atom" /></a>
+<a href="https://notepad-plus-plus.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Notepad++-grey?style=for-the-badge&logo=notepadplusplus&logoColor=white" alt="Notepad++" /></a>
+<a href="https://www.vim.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Vim-grey?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" /></a>
+<a href="https://neovim.io/" target="_blank">
+  <img src="https://img.shields.io/badge/NeoVim-grey?style=for-the-badge&logo=neovim&logoColor=white" alt="NeoVim" /></a>
+
+<div><p><h1></h1></p></div>
+
+<b>Script Management & Execution</b><br>
+
+<b>Jupyter Notebook / JupyterLab</b> – Write and run Python/R scripts with visualization.<br>
+<b>Google Colab</b> – Cloud-based Jupyter notebooks with GPU support.<br>
+<b>RunJS</b> – Real-time JavaScript playground.<br>
+<b>AutoHotkey</b> – Scripting automation for Windows.<br>
+<b>Bash / Zsh / PowerShell</b> – Terminal scripting environments.<br>
+<b>Node.js</b> – Server-side scripting (JavaScript runtime).<br>
+<b>Python</b> – General-purpose scripting with endless libraries.<br>
+
+<a href="https://jupyter.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Jupyter-grey?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" /></a>
+<a href="https://colab.research.google.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Colab-grey?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" /></a>
+<a href="https://runjs.app/" target="_blank">
+  <img src="https://img.shields.io/badge/RunJS-grey?style=for-the-badge&logo=javascript&logoColor=white" alt="RunJS" /></a>
+<a href="https://www.autohotkey.com/" target="_blank">
+  <img src="https://img.shields.io/badge/AutoHotkey-grey?style=for-the-badge&logo=autohotkey&logoColor=white" alt="AutoHotkey" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+  <img src="https://img.shields.io/badge/Bash-grey?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" /></a>
+<a href="https://ohmyz.sh/" target="_blank">
+  <img src="https://img.shields.io/badge/Zsh-grey?style=for-the-badge&logo=gnu&logoColor=white" alt="Zsh" /></a>
+<a href="https://learn.microsoft.com/en-us/powershell/" target="_blank">
+  <img src="https://img.shields.io/badge/PowerShell-grey?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" /></a>
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Node.js-grey?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+
+<div><p><h1></h1></p></div>
+
+
+<b>Debugging & Testing Tools</b><br>
+
+<b>Postman</b> – Test APIs and scripts involving HTTP requests.<br>
+<b>Chrome DevTools</b> – Frontend script debugging.<br>
+<b>PyTest / Mocha / Jest</b> – Testing frameworks for Python, Node, etc.<br>
+<b>Fiddler / Wireshark</b> – Debug and inspect network-level scripts.<br>
+
+<a href="https://www.postman.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Postman-grey?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></a>
+<a href="https://developer.chrome.com/docs/devtools/" target="_blank">
+  <img src="https://img.shields.io/badge/Chrome%20DevTools-grey?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome DevTools" /></a>
+<a href="https://docs.pytest.org/" target="_blank">
+  <img src="https://img.shields.io/badge/PyTest-grey?style=for-the-badge&logo=python&logoColor=white" alt="PyTest" /></a>
+<a href="https://mochajs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Mocha-grey?style=for-the-badge&logo=mocha&logoColor=white" alt="Mocha" /></a>
+<a href="https://jestjs.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Jest-grey?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" /></a>
+<a href="https://www.telerik.com/fiddler" target="_blank">
+  <img src="https://img.shields.io/badge/Fiddler-grey?style=for-the-badge&logo=microsoft&logoColor=white" alt="Fiddler" /></a>
+<a href="https://www.wireshark.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Wireshark-grey?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" /></a>
+
+
+<div><p><h1></h1></p></div>
+
+<b> Version Control & Collaboration</b><br>
+
+<b>Git</b> – Local version control.<br>
+<b>GitHub / GitLab / Bitbucket</b> – Remote repositories for collaboration and CI/CD.<br>
+<b>Gist</b> – Share single-file code snippets easily.<br>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+<a href="https://github.com/" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://gitlab.com/" target="_blank">
+  <img src="https://img.shields.io/badge/GitLab-grey?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>
+<a href="https://bitbucket.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Bitbucket-grey?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" /></a>
+<a href="https://gist.github.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Gist-grey?style=for-the-badge&logo=github&logoColor=white" alt="Gist" /></a>
+
+
+<div><p><h1></h1></p></div>
+
+<b>Deployment & Automation</b><br>
+
+<b>Docker</b> – Scripted containerization of code environments.<br>
+<b>GitHub Actions</b> – Automate testing/deployment scripts.<br>
+<b>Vercel / Netlify</b> – Deploy web projects via scripts in seconds.<br>
+<b>Ansible / Puppet</b> – Infrastructure-as-code automation.<br>
+<b>PM2</b> – Process manager for running Node.js scripts.<br>
+
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Docker-grey?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
+<a href="https://github.com/features/actions" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-grey?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /></a>
+<a href="https://vercel.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Vercel-grey?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
+<a href="https://www.netlify.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Netlify-grey?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" /></a>
+<a href="https://www.ansible.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Ansible-grey?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" /></a>
+<a href="https://puppet.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Puppet-grey?style=for-the-badge&logo=puppet&logoColor=white" alt="Puppet" /></a>
+<a href="https://pm2.keymetrics.io/" target="_blank">
+  <img src="https://img.shields.io/badge/PM2-grey?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="PM2" /></a>
 
 
 
+<div><p><h1></h1></p></div>
+
+<b> Package & Dependency Managers</b><br>
+
+<b>npm / yarn / pnpm</b> – JavaScript package managers.<br>
+<b>pip / conda</b> – Python package managers.<br>
+<b>NuGet</b> – .NET and C# package manager.<br>
+<b>Homebrew</b> – macOS/Linux script-based package installer.<br>
+
+<!-- npm -->
+<a href="https://www.npmjs.com/" target="_blank">
+  <img src="https://img.shields.io/badge/npm-grey?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /></a>
+
+<!-- yarn -->
+<a href="https://yarnpkg.com/" target="_blank">
+  <img src="https://img.shields.io/badge/yarn-grey?style=for-the-badge&logo=yarn&logoColor=white" alt="yarn" /></a>
+
+<!-- pnpm -->
+<a href="https://pnpm.io/" target="_blank">
+  <img src="https://img.shields.io/badge/pnpm-grey?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm" /></a>
+
+<!-- pip -->
+<a href="https://pip.pypa.io/" target="_blank">
+  <img src="https://img.shields.io/badge/pip-grey?style=for-the-badge&logo=pypi&logoColor=white" alt="pip" /></a>
+
+<!-- conda -->
+<a href="https://docs.conda.io/" target="_blank">
+  <img src="https://img.shields.io/badge/conda-grey?style=for-the-badge&logo=anaconda&logoColor=white" alt="conda" /></a>
+
+<!-- NuGet -->
+<a href="https://www.nuget.org/" target="_blank">
+  <img src="https://img.shields.io/badge/NuGet-grey?style=for-the-badge&logo=nuget&logoColor=white" alt="NuGet" /></a>
+
+<!-- Homebrew -->
+<a href="https://brew.sh/" target="_blank">
+  <img src="https://img.shields.io/badge/Homebrew-grey?style=for-the-badge&logo=homebrew&logoColor=white" alt="Homebrew" /></a>
 
 
+<div><p><h1></h1></p></div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="100%" src="https://media.licdn.com/dms/image/v2/D4D12AQFqqjFeAFeLNQ/article-cover_image-shrink_720_1280/B4DZYGW2IyHAAM-/0/1743863384390?e=2147483647&v=beta&t=tp3Sz8YyTKhuWS1waOe7P63JBL0JJyApPeWvP1YsFUY">
+<img width="100%" src="https://cdn.dribbble.com/userupload/3914936/file/original-3115e000a3ad99cdf20f340c744c22cc.jpg?resize=1504x1128&vertical=center">
 
 
 
