@@ -1023,21 +1023,81 @@ Icons and fonts are fundamental elements in modern design that enhance both the 
 <img width="100%" src="https://cdn.dribbble.com/userupload/16788655/file/original-504d2a45a813acb0f8435bd6c8d16433.jpg?resize=1504x945&vertical=center">
 <img width="100%" src="https://cdn.dribbble.com/userupload/41538839/file/original-779005e05dc6f5d8d66ca7b7b92fa8b1.png?resize=1024x768&vertical=center">
 
+---
+
+<h3>✸ Stock and Media </h3>
+
+Stock and media assets are essential resources in content creation, offering high-quality visuals and multimedia elements that enhance storytelling, design, and communication. These assets include stock photos, videos, audio clips, illustrations, and animations—professionally produced and ready for use in various creative projects.
+
+<div><p><h1></h1></p></div>
+
+<b>🖼️ Stock & Media Tools</b><br>
+
+<b>Unsplash</b> – Free high-resolution photos for personal and commercial use.<br>
+<b>Pexels</b> – Free stock photos and videos with a vast library.<br>
+<b>Pixabay</b> – Free images, videos, and music with wide licensing.<br>
+<b>Shutterstock</b> – Paid stock images, videos, and music with a huge collection.<br>
+<b>Adobe Stock</b> – Professional stock photos, videos, and templates from Adobe.<br>
+<b>Getty Images</b> – Premium stock photos, videos, and editorial content.<br>
+<b>Envato Elements</b> – Subscription-based stock photos, videos, graphics, and templates.<br>
+<b>Canva</b> – Online design tool with stock photos, videos, and templates.<br>
+<b>Figma</b> – Collaborative design tool supporting media and prototyping.<br>
+<b>DaVinci Resolve</b> – Professional video editing and color correction software.<br>
+<b>Adobe Premiere Pro</b> – Industry-leading video editing software.<br>
+<b>Final Cut Pro</b> – Apple’s professional video editing software.<br>
+<b>Audacity</b> – Free, open-source audio recording and editing software.<br>
+<b>Adobe Audition</b> – Professional audio editing and mixing tool.<br>
+
+<b>🖼️ Stock & Media Tools</b><br>
+
+<a href="https://unsplash.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Unsplash-grey?style=for-the-badge&logo=unsplash&logoColor=white" alt="Unsplash" /></a>
+
+<a href="https://www.pexels.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Pexels-grey?style=for-the-badge&logo=pexels&logoColor=white" alt="Pexels" /></a>
+
+<a href="https://pixabay.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Pixabay-grey?style=for-the-badge&logo=pixabay&logoColor=white" alt="Pixabay" /></a>
+
+<a href="https://www.shutterstock.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Shutterstock-grey?style=for-the-badge&logo=shutterstock&logoColor=white" alt="Shutterstock" /></a>
+
+<a href="https://stock.adobe.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Adobe%20Stock-grey?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Stock" /></a>
+
+<a href="https://www.gettyimages.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Getty%20Images-grey?style=for-the-badge&logo=gettyimages&logoColor=white" alt="Getty Images" /></a>
+
+<a href="https://elements.envato.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Envato%20Elements-grey?style=for-the-badge&logo=envato&logoColor=white" alt="Envato Elements" /></a>
+
+<a href="https://www.canva.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Canva-grey?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" /></a>
+
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Figma-grey?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
+
+<a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank">
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-grey?style=for-the-badge&logo=blackmagicdesign&logoColor=white" alt="DaVinci Resolve" /></a>
+
+<a href="https://www.adobe.com/products/premiere.html" target="_blank">
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-grey?style=for-the-badge&logo=adobe-premiere&logoColor=white" alt="Adobe Premiere Pro" /></a>
+
+<a href="https://www.apple.com/final-cut-pro/" target="_blank">
+  <img src="https://img.shields.io/badge/Final%20Cut%20Pro-grey?style=for-the-badge&logo=apple&logoColor=white" alt="Final Cut Pro" /></a>
+
+<a href="https://www.audacityteam.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Audacity-grey?style=for-the-badge&logo=audacity&logoColor=white" alt="Audacity" /></a>
+
+<a href="https://www.adobe.com/products/audition.html" target="_blank">
+  <img src="https://img.shields.io/badge/Adobe%20Audition-grey?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Audition" /></a>
 
 
 
+<div><p><h1></h1></p></div>
 
-
-
-
-
-
-
-
-
-
-
-
+<img width="100%" src="https://cdn.dribbble.com/userupload/24639228/file/original-642aa9952eb3a2f3389fd962fd87b029.png?resize=1504x1128&vertical=center">
+<img width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/801633198120167.669a74d281c07.jpg">
 
 
 
