@@ -1706,8 +1706,9 @@ Book cover and magazine designing are essential aspects of visual storytelling a
 <a href="https://www.marq.com/" target="_blank">
   <img src="https://img.shields.io/badge/Marq-grey?style=for-the-badge&logo=marq&logoColor=white" alt="Marq" /></a>
 
-<a href="https://www.marq.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Marq-grey?style=for-the-badge&logoColor=white" alt="Marq" /></a>
+<a href="https://create.vista.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Vista%20Create-grey?style=for-the-badge&logo=vistacreate&logoColor=white" alt="Vista Create" /></a>
+
 
 
 <div><p><h1></h1></p></div>
