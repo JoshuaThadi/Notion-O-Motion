@@ -1655,7 +1655,7 @@ Drawing and arts are timeless forms of creative expression that allow individual
 
 ---
 
-<h1>★ Book Cover and Magazine Designing</h1>
+<h3>★ Book Cover and Magazine Designing</h3>
 
 Book cover and magazine designing are essential aspects of visual storytelling and publishing that combine creativity, branding, and communication to captivate readers and convey the essence of the content inside.
 
