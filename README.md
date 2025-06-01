@@ -1799,8 +1799,8 @@ Book cover and magazine designing are essential aspects of visual storytelling a
 <div><p><h1></h1></p></div>
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/userupload/11536233/file/original-8f6c7b792a0d681d748ee3de726af884.png?resize=1504x1128&vertical=center" width="63%" />
-  <img src="https://cdn.dribbble.com/userupload/27043313/file/original-e6c02a1ced77568387d3446c7db77479.jpg?resize=1504x2226&vertical=center" width="32%" />
+  <img src="https://cdn.dribbble.com/userupload/11536233/file/original-8f6c7b792a0d681d748ee3de726af884.png?resize=1504x1128&vertical=center" width="100%" />
+  <img src="https://cdn.dribbble.com/userupload/27043313/file/original-e6c02a1ced77568387d3446c7db77479.jpg?resize=1504x2226&vertical=center" width="100%" />
 </div>
 
 ---
