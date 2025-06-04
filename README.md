@@ -1805,6 +1805,106 @@ Book cover and magazine designing are essential aspects of visual storytelling a
 
 ---
 
+<h3>✪ Wallpaper designing</h3><br>
+
+Wallpaper designing is a creative process involving the use of graphic, vector, or 3D design tools to craft visually appealing backgrounds for mobile and desktop screens. It combines aesthetics, color theory, and resolution optimization to ensure designs look sharp across devices. Artists often use tools like Photoshop, Blender, or AI generators to create personalized or thematic visuals.
+
+<div><p><h1></h1></p></div>
+
+<b>Graphic Design Software (Raster & Vector)</b><br>
+
+<b>Adobe Photoshop</b> – Industry-standard raster editor for professional image editing.<br>
+<b>Adobe Illustrator</b> – Vector-based design tool ideal for logos and illustrations.<br>
+<b>GIMP</b> – Free and open-source alternative to Photoshop for raster editing.<br>
+<b>Inkscape</b> – Free vector graphics editor great for scalable artwork.<br>
+<b>Affinity Photo</b> – Affordable Photoshop alternative with powerful features.<br>
+<b>Affinity Designer</b> – Dual-purpose tool for vector and raster design work.<br>
+<b>Krita</b> – Free digital painting tool tailored for artists and illustrators.<br>
+<b>Canva</b> – Drag-and-drop editor with ready-to-use templates for all needs.<br>
+<b>Photopea</b> – Free web-based Photoshop-like editor that supports PSD files.<br>
+
+<a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.shields.io/badge/Adobe%20Photoshop-grey?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop" /></a>
+<a href="https://www.adobe.com/products/illustrator.html"><img src="https://img.shields.io/badge/Adobe%20Illustrator-grey?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator" /></a>
+<a href="https://www.gimp.org"><img src="https://img.shields.io/badge/GIMP-grey?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP" /></a>
+<a href="https://inkscape.org"><img src="https://img.shields.io/badge/Inkscape-grey?style=for-the-badge&logo=inkscape&logoColor=white" alt="Inkscape" /></a>
+<a href="https://affinity.serif.com/photo/"><img src="https://img.shields.io/badge/Affinity%20Photo-grey?style=for-the-badge&logo=affinityphoto&logoColor=white" alt="Affinity Photo" /></a>
+<a href="https://affinity.serif.com/designer/"><img src="https://img.shields.io/badge/Affinity%20Designer-grey?style=for-the-badge&logo=affinitydesigner&logoColor=white" alt="Affinity Designer" /></a>
+<a href="https://krita.org"><img src="https://img.shields.io/badge/Krita-grey?style=for-the-badge&logo=krita&logoColor=white" alt="Krita" /></a>
+<a href="https://www.canva.com"><img src="https://img.shields.io/badge/Canva-grey?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" /></a>
+<a href="https://www.photopea.com"><img src="https://img.shields.io/badge/Photopea-grey?style=for-the-badge&logo=photopea&logoColor=white" alt="Photopea" /></a>
+
+
+<div><p><h1></h1></p></div>
+
+<b>Wallpaper-Specific Tools & Platforms</b><br>
+
+<b>Wallpaper Engine</b> – Create and animate interactive desktop wallpapers.<br>
+<b>Rainmeter</b> – Customize Windows desktops with interactive widgets and skins.<br>
+<b>Figma</b> – Cloud-based collaborative design tool for UI and layout design.<br>
+
+<a href="https://store.steampowered.com/app/431960/Wallpaper_Engine/"><img src="https://img.shields.io/badge/Wallpaper%20Engine-grey?style=for-the-badge&logo=steam&logoColor=white" alt="Wallpaper Engine" /></a>
+<a href="https://www.rainmeter.net"><img src="https://img.shields.io/badge/Rainmeter-grey?style=for-the-badge&logo=windows&logoColor=white" alt="Rainmeter" /></a>
+<a href="https://figma.com"><img src="https://img.shields.io/badge/Figma-grey?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
+
+<div><p><h1></h1></p></div>
+
+<b>AI Wallpaper Generators</b><br>
+
+<b>DALL·E (OpenAI)</b> – Generate stunning AI images from text prompts.<br>
+<b>Midjourney</b> – Discord-based AI tool for artistic and surreal visuals.<br>
+<b>Leonardo.Ai</b> – AI-powered tool focused on high-resolution concept art.<br>
+<b>Artbreeder</b> – Blend and evolve images using generative AI techniques.<br>
+<b>Runway ML</b> – AI toolkit for creating and editing visuals and videos.<br>
+
+
+<a href="https://openai.com/dall-e"><img src="https://img.shields.io/badge/DALL·E-grey?style=for-the-badge&logo=openai&logoColor=white" alt="DALL·E" /></a>
+<a href="https://www.midjourney.com"><img src="https://img.shields.io/badge/Midjourney-grey?style=for-the-badge&logo=discord&logoColor=white" alt="Midjourney" /></a>
+<a href="https://leonardo.ai"><img src="https://img.shields.io/badge/Leonardo.Ai-grey?style=for-the-badge&logo=leonardo&logoColor=white" alt="Leonardo.Ai" /></a>
+<a href="https://www.artbreeder.com"><img src="https://img.shields.io/badge/Artbreeder-grey?style=for-the-badge&logo=artstation&logoColor=white" alt="Artbreeder" /></a>
+<a href="https://runwayml.com"><img src="https://img.shields.io/badge/Runway%20ML-grey?style=for-the-badge&logo=runway&logoColor=white" alt="Runway ML" /></a>
+
+
+<div><p><h1></h1></p></div>
+
+<b>D Design Tools for Wallpapers</b><br>
+
+<b>Blender</b> – Free, professional-grade 3D modeling and rendering tool.<br>
+<b>Cinema 4D</b> – Industry-standard 3D tool for advanced motion graphics.<br>
+<b>DAZ 3D</b> – Easy-to-use software for rendering 3D characters and scenes.<br>
+
+<a href="https://www.blender.org"><img src="https://img.shields.io/badge/Blender-grey?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" /></a>
+<a href="https://www.maxon.net/en/cinema-4d"><img src="https://img.shields.io/badge/Cinema%204D-grey?style=for-the-badge&logo=maxon&logoColor=white" alt="Cinema 4D" /></a>
+<a href="https://www.daz3d.com"><img src="https://img.shields.io/badge/DAZ%203D-grey?style=for-the-badge&logo=daz3d&logoColor=white" alt="DAZ 3D" /></a>
+
+
+<div><p><h1></h1></p></div>
+
+<b>Mobile Apps for Wallpaper Creation</b><br>
+
+<b>Adobe Express</b> – Quick design app with templates and text effects.<br>
+<b>Pixlr</b> – Lightweight editor with AI-powered enhancements.<br>
+<b>PicsArt</b> – Creative photo editor with effects and remixing tools.<br>
+<b>Procreate</b> – Professional illustration app for iPad with brush customizations.<br>
+<b>WallpapersCraft Creator</b> – Android app for generating HD wallpapers on-the-go.<br>
+
+<a href="https://express.adobe.com"><img src="https://img.shields.io/badge/Adobe%20Express-grey?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Express" /></a>
+<a href="https://pixlr.com"><img src="https://img.shields.io/badge/Pixlr-grey?style=for-the-badge&logo=pixlr&logoColor=white" alt="Pixlr" /></a>
+<a href="https://picsart.com"><img src="https://img.shields.io/badge/PicsArt-grey?style=for-the-badge&logo=picsart&logoColor=white" alt="PicsArt" /></a>
+<a href="https://procreate.com"><img src="https://img.shields.io/badge/Procreate-grey?style=for-the-badge&logo=procreate&logoColor=white" alt="Procreate" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.wallpaperscraft.wallpaper.creator"><img src="https://img.shields.io/badge/WallpapersCraft-grey?style=for-the-badge&logo=android&logoColor=white" alt="WallpapersCraft Creator" /></a>
+
+
+
+<div><p><h1></h1></p></div>
+
+<img src="https://i.pinimg.com/736x/30/8b/b8/308bb89fafbc4472de23fab93db67585.jpg" width="100%" />
+<img src="https://i.pinimg.com/736x/00/0a/b7/000ab705af9cbb76df650279709ac734.jpg" width="100%" />
+
+
+
+
+---
+
 
 <div align="left">
 
